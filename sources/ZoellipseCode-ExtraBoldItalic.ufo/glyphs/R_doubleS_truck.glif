@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="RdoubleStruck" format="2">
+  <advance width="576"/>
+  <unicode hex="211D"/>
+  <outline>
+    <contour>
+      <point x="72" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="313" type="line"/>
+      <point x="322" y="313" type="line" smooth="yes"/>
+      <point x="444" y="313"/>
+      <point x="523" y="389"/>
+      <point x="523" y="507" type="curve" smooth="yes"/>
+      <point x="523" y="625"/>
+      <point x="444" y="701"/>
+      <point x="322" y="701" type="curve" smooth="yes"/>
+      <point x="72" y="701" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="38" type="line"/>
+      <point x="112" y="662" type="line"/>
+      <point x="170" y="662" type="line"/>
+      <point x="170" y="38" type="line"/>
+    </contour>
+    <contour>
+      <point x="210" y="351" type="line"/>
+      <point x="210" y="662" type="line"/>
+      <point x="322" y="662" type="line" smooth="yes"/>
+      <point x="416" y="662"/>
+      <point x="483" y="600"/>
+      <point x="483" y="507" type="curve" smooth="yes"/>
+      <point x="483" y="415"/>
+      <point x="415" y="351"/>
+      <point x="322" y="351" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="375" y="349" type="line"/>
+      <point x="416" y="349" type="line"/>
+      <point x="416" y="665" type="line"/>
+      <point x="375" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="225" y="334" type="line"/>
+      <point x="387" y="0" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="380" y="325" type="line"/>
+      <point x="338" y="324" type="line"/>
+      <point x="480" y="38" type="line"/>
+      <point x="416" y="38" type="line"/>
+      <point x="267" y="336" type="line"/>
+    </contour>
+  </outline>
+</glyph>

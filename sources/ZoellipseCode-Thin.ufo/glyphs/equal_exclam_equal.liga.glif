@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_exclam_equal.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-24" y="403" type="line"/>
+      <point x="499" y="403" type="line"/>
+      <point x="499" y="446" type="line"/>
+      <point x="-24" y="446" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1075" y="187" type="line"/>
+      <point x="-552" y="187" type="line"/>
+      <point x="-552" y="230" type="line"/>
+      <point x="-1075" y="230" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1075" y="403" type="line"/>
+      <point x="-552" y="403" type="line"/>
+      <point x="-552" y="446" type="line"/>
+      <point x="-1075" y="446" type="line"/>
+    </contour>
+    <contour>
+      <point x="-24" y="187" type="line"/>
+      <point x="499" y="187" type="line"/>
+      <point x="499" y="230" type="line"/>
+      <point x="-24" y="230" type="line"/>
+    </contour>
+    <component base="exclam" xOffset="-576"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>exclam</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPPC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divides" format="2">
+  <advance width="576"/>
+  <unicode hex="2223"/>
+  <outline>
+    <contour>
+      <point x="174" y="0" type="line"/>
+      <point x="318" y="0" type="line"/>
+      <point x="429" y="701" type="line"/>
+      <point x="285" y="701" type="line"/>
+    </contour>
+  </outline>
+</glyph>

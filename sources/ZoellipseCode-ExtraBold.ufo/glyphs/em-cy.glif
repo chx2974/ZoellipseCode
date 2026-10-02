@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="em-cy" format="2">
+  <advance width="576"/>
+  <unicode hex="043C"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="172" y="96" type="line" smooth="yes"/>
+      <point x="172" y="187"/>
+      <point x="172" y="369"/>
+      <point x="154" y="447" type="curve"/>
+      <point x="232" y="178" type="line"/>
+      <point x="341" y="178" type="line"/>
+      <point x="419" y="462" type="line"/>
+      <point x="403" y="379"/>
+      <point x="404" y="180"/>
+      <point x="404" y="96" type="curve" smooth="yes"/>
+      <point x="404" y="0" type="line"/>
+      <point x="536" y="0" type="line"/>
+      <point x="536" y="528" type="line"/>
+      <point x="358" y="528" type="line"/>
+      <point x="287" y="285" type="line"/>
+      <point x="217" y="528" type="line"/>
+      <point x="40" y="528" type="line"/>
+    </contour>
+  </outline>
+</glyph>

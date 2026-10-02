@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_equal_equal.liga.ss19" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="78" y="391" type="line"/>
+      <point x="519" y="391" type="line"/>
+      <point x="533" y="474" type="line"/>
+      <point x="91" y="474" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1093" y="159" type="line"/>
+      <point x="-651" y="159" type="line"/>
+      <point x="-637" y="243" type="line"/>
+      <point x="-1079" y="243" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1055" y="391" type="line"/>
+      <point x="-613" y="391" type="line"/>
+      <point x="-600" y="474" type="line"/>
+      <point x="-1042" y="474" type="line"/>
+    </contour>
+    <contour>
+      <point x="-517" y="159" type="line"/>
+      <point x="-75" y="159" type="line"/>
+      <point x="-61" y="243" type="line"/>
+      <point x="-503" y="243" type="line"/>
+    </contour>
+    <contour>
+      <point x="-479" y="391" type="line"/>
+      <point x="-37" y="391" type="line"/>
+      <point x="-24" y="474" type="line"/>
+      <point x="-466" y="474" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="159" type="line"/>
+      <point x="482" y="159" type="line"/>
+      <point x="495" y="243" type="line"/>
+      <point x="54" y="243" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_slash_equal.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-1076" y="391" type="line"/>
+      <point x="502" y="391" type="line"/>
+      <point x="516" y="474" type="line"/>
+      <point x="-1063" y="474" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1114" y="159" type="line"/>
+      <point x="465" y="159" type="line"/>
+      <point x="478" y="243" type="line"/>
+      <point x="-1100" y="243" type="line"/>
+    </contour>
+    <contour>
+      <point x="-476" y="0" type="line"/>
+      <point x="-403" y="0" type="line"/>
+      <point x="-68" y="638" type="line"/>
+      <point x="-141" y="638" type="line"/>
+    </contour>
+  </outline>
+</glyph>

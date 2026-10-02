@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="precedesorequalto" format="2">
+  <advance width="576"/>
+  <unicode hex="227C"/>
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="462" y="0" type="line"/>
+      <point x="468" y="43" type="line"/>
+      <point x="36" y="43" type="line"/>
+    </contour>
+    <component base="precedes" xOffset="19" yOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

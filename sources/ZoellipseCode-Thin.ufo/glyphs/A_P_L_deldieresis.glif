@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLdeldieresis" format="2">
+  <advance width="576"/>
+  <unicode hex="2362"/>
+  <outline>
+    <contour>
+      <point x="257" y="0" type="line"/>
+      <point x="319" y="0" type="line"/>
+      <point x="511" y="701" type="line"/>
+      <point x="65" y="701" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="38" type="curve"/>
+      <point x="284" y="63"/>
+      <point x="274" y="117"/>
+      <point x="258" y="173" type="curve" smooth="yes"/>
+      <point x="128" y="658" type="line"/>
+      <point x="452" y="658" type="line"/>
+      <point x="321" y="173" type="line" smooth="yes"/>
+      <point x="305" y="117"/>
+      <point x="294" y="63"/>
+    </contour>
+    <contour>
+      <point x="185" y="792" type="curve" smooth="yes"/>
+      <point x="221" y="792"/>
+      <point x="235" y="807"/>
+      <point x="235" y="845" type="curve" smooth="yes"/>
+      <point x="235" y="882"/>
+      <point x="221" y="898"/>
+      <point x="185" y="898" type="curve" smooth="yes"/>
+      <point x="150" y="898"/>
+      <point x="135" y="882"/>
+      <point x="135" y="845" type="curve" smooth="yes"/>
+      <point x="135" y="807"/>
+      <point x="150" y="792"/>
+    </contour>
+    <contour>
+      <point x="392" y="792" type="curve" smooth="yes"/>
+      <point x="427" y="792"/>
+      <point x="441" y="807"/>
+      <point x="441" y="845" type="curve" smooth="yes"/>
+      <point x="441" y="882"/>
+      <point x="427" y="898"/>
+      <point x="392" y="898" type="curve" smooth="yes"/>
+      <point x="355" y="898"/>
+      <point x="341" y="882"/>
+      <point x="341" y="845" type="curve" smooth="yes"/>
+      <point x="341" y="807"/>
+      <point x="355" y="792"/>
+    </contour>
+  </outline>
+</glyph>

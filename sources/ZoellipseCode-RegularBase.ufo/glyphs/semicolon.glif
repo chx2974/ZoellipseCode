@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="576"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="278" y="394" type="curve" smooth="yes"/>
+      <point x="298" y="394" type="line" smooth="yes"/>
+      <point x="348" y="394"/>
+      <point x="370" y="416"/>
+      <point x="370" y="466" type="curve" smooth="yes"/>
+      <point x="370" y="515"/>
+      <point x="347" y="538"/>
+      <point x="298" y="538" type="curve" smooth="yes"/>
+      <point x="278" y="538" type="line" smooth="yes"/>
+      <point x="229" y="538"/>
+      <point x="206" y="515"/>
+      <point x="206" y="466" type="curve" smooth="yes"/>
+      <point x="206" y="416"/>
+      <point x="228" y="394"/>
+    </contour>
+    <component base="comma" xOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLquadnotequal" format="2">
+  <advance width="576"/>
+  <unicode hex="236F"/>
+  <outline>
+    <contour>
+      <point x="138" y="29" type="line"/>
+      <point x="205" y="29" type="line"/>
+      <point x="440" y="667" type="line"/>
+      <point x="372" y="667" type="line"/>
+    </contour>
+    <contour>
+      <point x="24" y="422" type="line"/>
+      <point x="552" y="422" type="line"/>
+      <point x="552" y="499" type="line"/>
+      <point x="24" y="499" type="line"/>
+    </contour>
+    <contour>
+      <point x="24" y="192" type="line"/>
+      <point x="552" y="192" type="line"/>
+      <point x="552" y="269" type="line"/>
+      <point x="24" y="269" type="line"/>
+    </contour>
+    <component base="APLquad"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPC</string>
+    </dict>
+  </lib>
+</glyph>

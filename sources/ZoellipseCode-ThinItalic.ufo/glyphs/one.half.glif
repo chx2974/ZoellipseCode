@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.half" format="2">
+  <advance width="384"/>
+  <outline>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="294" y="0" type="line"/>
+      <point x="300" y="38" type="line"/>
+      <point x="198" y="38" type="line"/>
+      <point x="243" y="322" type="line"/>
+      <point x="179" y="322" type="line"/>
+      <point x="72" y="246" type="line"/>
+      <point x="63" y="194" type="line"/>
+      <point x="195" y="285" type="line"/>
+      <point x="155" y="38" type="line"/>
+      <point x="31" y="38" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

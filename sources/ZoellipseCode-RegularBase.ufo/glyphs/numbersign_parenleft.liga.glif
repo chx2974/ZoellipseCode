@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_parenleft.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-496" y="0" type="line"/>
+      <point x="-429" y="0" type="line"/>
+      <point x="-392" y="202" type="line"/>
+      <point x="-238" y="202" type="line"/>
+      <point x="-276" y="0" type="line"/>
+      <point x="-208" y="0" type="line"/>
+      <point x="-171" y="202" type="line"/>
+      <point x="226" y="202" type="line"/>
+      <point x="226" y="264" type="line"/>
+      <point x="-160" y="264" type="line"/>
+      <point x="-128" y="437" type="line"/>
+      <point x="226" y="437" type="line"/>
+      <point x="226" y="499" type="line"/>
+      <point x="-117" y="499" type="line"/>
+      <point x="-80" y="701" type="line"/>
+      <point x="-147" y="701" type="line"/>
+      <point x="-184" y="499" type="line"/>
+      <point x="-338" y="499" type="line"/>
+      <point x="-300" y="701" type="line"/>
+      <point x="-368" y="701" type="line"/>
+      <point x="-405" y="499" type="line"/>
+      <point x="-509" y="499" type="line"/>
+      <point x="-509" y="437" type="line"/>
+      <point x="-416" y="437" type="line"/>
+      <point x="-448" y="264" type="line"/>
+      <point x="-542" y="264" type="line"/>
+      <point x="-542" y="202" type="line"/>
+      <point x="-459" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="-381" y="264" type="line"/>
+      <point x="-348" y="437" type="line"/>
+      <point x="-195" y="437" type="line"/>
+      <point x="-228" y="264" type="line"/>
+    </contour>
+    <component base="parenleft"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>parenleft</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

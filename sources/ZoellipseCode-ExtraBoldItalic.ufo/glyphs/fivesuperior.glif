@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fivesuperior" format="2">
+  <advance width="576"/>
+  <unicode hex="2075"/>
+  <outline>
+    <contour>
+      <point x="306" y="362" type="curve" smooth="yes"/>
+      <point x="432" y="362"/>
+      <point x="480" y="399"/>
+      <point x="497" y="509" type="curve" smooth="yes"/>
+      <point x="513" y="609"/>
+      <point x="474" y="646"/>
+      <point x="354" y="646" type="curve" smooth="yes"/>
+      <point x="292" y="646" type="line"/>
+      <point x="302" y="715" type="line"/>
+      <point x="514" y="715" type="line"/>
+      <point x="526" y="797" type="line"/>
+      <point x="228" y="797" type="line"/>
+      <point x="194" y="573" type="line"/>
+      <point x="343" y="573" type="line" smooth="yes"/>
+      <point x="392" y="573"/>
+      <point x="410" y="558"/>
+      <point x="402" y="509" type="curve" smooth="yes"/>
+      <point x="396" y="466"/>
+      <point x="371" y="444"/>
+      <point x="319" y="444" type="curve" smooth="yes"/>
+      <point x="266" y="444"/>
+      <point x="248" y="460"/>
+      <point x="253" y="496" type="curve"/>
+      <point x="159" y="496" type="line"/>
+      <point x="144" y="401"/>
+      <point x="187" y="362"/>
+    </contour>
+  </outline>
+</glyph>

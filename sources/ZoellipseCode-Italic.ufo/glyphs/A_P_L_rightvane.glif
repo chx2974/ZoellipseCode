@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLrightvane" format="2">
+  <advance width="576"/>
+  <unicode hex="2346"/>
+  <outline>
+    <contour>
+      <point x="245" y="0" type="line"/>
+      <point x="331" y="0" type="line"/>
+      <point x="331" y="312" type="line"/>
+      <point x="445" y="312" type="line"/>
+      <point x="445" y="158" type="line"/>
+      <point x="595" y="350" type="line"/>
+      <point x="445" y="542" type="line"/>
+      <point x="445" y="389" type="line"/>
+      <point x="331" y="389" type="line"/>
+      <point x="331" y="701" type="line"/>
+      <point x="245" y="701" type="line"/>
+      <point x="245" y="389" type="line"/>
+      <point x="0" y="389" type="line"/>
+      <point x="0" y="312" type="line"/>
+      <point x="245" y="312" type="line"/>
+    </contour>
+  </outline>
+</glyph>

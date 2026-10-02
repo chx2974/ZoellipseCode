@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilon" format="2">
+  <advance width="576"/>
+  <unicode hex="03B5"/>
+  <anchor x="288" y="0" name="bottom"/>
+  <anchor x="288" y="528" name="top"/>
+  <outline>
+    <component base="ze-cy" xScale="-1" xOffset="576"/>
+  </outline>
+</glyph>

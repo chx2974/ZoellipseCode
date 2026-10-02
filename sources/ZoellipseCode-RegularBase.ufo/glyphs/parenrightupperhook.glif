@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenrightupperhook" format="2">
+  <advance width="576"/>
+  <unicode hex="239E"/>
+  <outline>
+    <component base="parenleftupperhook" xScale="-1" xOffset="576"/>
+  </outline>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N.half" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-9" y="0" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="90" y="110" type="line" smooth="yes"/>
+      <point x="101" y="180"/>
+      <point x="99" y="199"/>
+      <point x="97" y="248" type="curve"/>
+      <point x="204" y="0" type="line"/>
+      <point x="308" y="0" type="line"/>
+      <point x="359" y="322" type="line"/>
+      <point x="277" y="322" type="line"/>
+      <point x="261" y="221" type="line" smooth="yes"/>
+      <point x="250" y="151"/>
+      <point x="252" y="122"/>
+      <point x="253" y="74" type="curve"/>
+      <point x="147" y="322" type="line"/>
+      <point x="42" y="322" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

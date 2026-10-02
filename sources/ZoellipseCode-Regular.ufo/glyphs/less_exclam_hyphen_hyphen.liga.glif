@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_exclam_hyphen_hyphen.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-1435" y="34" type="line"/>
+      <point x="-1327" y="34" type="line"/>
+      <point x="-1504" y="257" type="line" smooth="yes"/>
+      <point x="-1532" y="292"/>
+      <point x="-1548" y="312"/>
+      <point x="-1553" y="318" type="curve"/>
+      <point x="-1548" y="324"/>
+      <point x="-1533" y="342"/>
+      <point x="-1508" y="373" type="curve" smooth="yes"/>
+      <point x="-1327" y="600" type="line"/>
+      <point x="-1434" y="600" type="line"/>
+      <point x="-1656" y="317" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1575" y="276" type="line"/>
+      <point x="-1057" y="276" type="line"/>
+      <point x="-1057" y="358" type="line"/>
+      <point x="-1575" y="358" type="line"/>
+    </contour>
+    <contour>
+      <point x="-671" y="276" type="line"/>
+      <point x="494" y="276" type="line"/>
+      <point x="494" y="358" type="line"/>
+      <point x="-671" y="358" type="line"/>
+    </contour>
+    <component base="exclam" xOffset="-1152"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>exclam</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPC</string>
+    </dict>
+  </lib>
+</glyph>

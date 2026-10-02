@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_hyphen_bar.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="394" y="339" type="line"/>
+      <point x="-996" y="339" type="line"/>
+      <point x="-779" y="600" type="line"/>
+      <point x="-835" y="600" type="line"/>
+      <point x="-1070" y="317" type="line"/>
+      <point x="-836" y="34" type="line"/>
+      <point x="-780" y="34" type="line"/>
+      <point x="-998" y="296" type="line"/>
+      <point x="394" y="296" type="line"/>
+      <point x="394" y="34" type="line"/>
+      <point x="442" y="34" type="line"/>
+      <point x="442" y="600" type="line"/>
+      <point x="394" y="600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

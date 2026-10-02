@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightcurlybracketmiddlepiece" format="2">
+  <advance width="576"/>
+  <unicode hex="23AC"/>
+  <outline>
+    <component base="leftcurlybracketmiddlepiece" xScale="-1.0" xOffset="576"/>
+  </outline>
+</glyph>

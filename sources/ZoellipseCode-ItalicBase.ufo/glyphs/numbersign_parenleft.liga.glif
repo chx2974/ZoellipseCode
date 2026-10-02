@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_parenleft.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-539" y="0" type="line"/>
+      <point x="-471" y="0" type="line"/>
+      <point x="-402" y="202" type="line"/>
+      <point x="-249" y="202" type="line"/>
+      <point x="-318" y="0" type="line"/>
+      <point x="-251" y="0" type="line"/>
+      <point x="-181" y="202" type="line"/>
+      <point x="215" y="202" type="line"/>
+      <point x="226" y="264" type="line"/>
+      <point x="-160" y="264" type="line"/>
+      <point x="-101" y="437" type="line"/>
+      <point x="252" y="437" type="line"/>
+      <point x="262" y="499" type="line"/>
+      <point x="-81" y="499" type="line"/>
+      <point x="-11" y="701" type="line"/>
+      <point x="-78" y="701" type="line"/>
+      <point x="-148" y="499" type="line"/>
+      <point x="-301" y="499" type="line"/>
+      <point x="-231" y="701" type="line"/>
+      <point x="-299" y="701" type="line"/>
+      <point x="-369" y="499" type="line"/>
+      <point x="-472" y="499" type="line"/>
+      <point x="-482" y="437" type="line"/>
+      <point x="-389" y="437" type="line"/>
+      <point x="-448" y="264" type="line"/>
+      <point x="-542" y="264" type="line"/>
+      <point x="-553" y="202" type="line"/>
+      <point x="-469" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="-381" y="264" type="line"/>
+      <point x="-322" y="437" type="line"/>
+      <point x="-168" y="437" type="line"/>
+      <point x="-228" y="264" type="line"/>
+    </contour>
+    <component base="parenleft"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>parenleft</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

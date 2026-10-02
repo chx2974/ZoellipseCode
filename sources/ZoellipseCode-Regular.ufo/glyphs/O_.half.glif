@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O.half" format="2">
+  <advance width="401"/>
+  <outline>
+    <contour>
+      <point x="192" y="-5" type="curve" smooth="yes"/>
+      <point x="308" y="-5"/>
+      <point x="361" y="48"/>
+      <point x="361" y="160" type="curve" smooth="yes"/>
+      <point x="361" y="274"/>
+      <point x="308" y="326"/>
+      <point x="192" y="326" type="curve" smooth="yes"/>
+      <point x="76" y="326"/>
+      <point x="23" y="274"/>
+      <point x="23" y="160" type="curve" smooth="yes"/>
+      <point x="23" y="48"/>
+      <point x="76" y="-5"/>
+    </contour>
+    <contour>
+      <point x="192" y="53" type="curve" smooth="yes"/>
+      <point x="124" y="53"/>
+      <point x="90" y="86"/>
+      <point x="90" y="160" type="curve" smooth="yes"/>
+      <point x="90" y="234"/>
+      <point x="124" y="269"/>
+      <point x="192" y="269" type="curve" smooth="yes"/>
+      <point x="260" y="269"/>
+      <point x="294" y="234"/>
+      <point x="294" y="160" type="curve" smooth="yes"/>
+      <point x="294" y="86"/>
+      <point x="260" y="53"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

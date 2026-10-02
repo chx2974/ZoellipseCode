@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxHeavyQuadrupleDashVertical" format="2">
+  <advance width="576"/>
+  <unicode hex="250B"/>
+  <outline>
+    <contour>
+      <point x="192" y="691" type="line"/>
+      <point x="384" y="691" type="line"/>
+      <point x="384" y="898" type="line"/>
+      <point x="192" y="898" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="-187" type="line"/>
+      <point x="384" y="-187" type="line"/>
+      <point x="384" y="19" type="line"/>
+      <point x="192" y="19" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="106" type="line"/>
+      <point x="384" y="106" type="line"/>
+      <point x="384" y="312" type="line"/>
+      <point x="192" y="312" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="398" type="line"/>
+      <point x="384" y="398" type="line"/>
+      <point x="384" y="605" type="line"/>
+      <point x="192" y="605" type="line"/>
+    </contour>
+  </outline>
+</glyph>

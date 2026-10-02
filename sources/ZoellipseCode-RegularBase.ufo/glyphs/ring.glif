@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring" format="2">
+  <advance width="576"/>
+  <unicode hex="02DA"/>
+  <anchor x="288" y="528" name="_top"/>
+  <anchor x="288" y="803" name="top"/>
+  <outline>
+    <component base="ringcomb" xOffset="576"/>
+  </outline>
+</glyph>

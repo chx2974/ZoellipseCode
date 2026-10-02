@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute.cv05" format="2">
+  <advance width="576"/>
+  <anchor x="307" y="0" name="bottom"/>
+  <anchor x="302" y="912" name="top"/>
+  <outline>
+    <component base="l.cv05"/>
+    <component base="acutecomb.case" xOffset="557"/>
+  </outline>
+</glyph>

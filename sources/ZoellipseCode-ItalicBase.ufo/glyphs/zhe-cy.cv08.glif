@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy.cv08" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="444" y="0" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="418" y="266" type="line"/>
+      <point x="588" y="528" type="line"/>
+      <point x="505" y="528" type="line"/>
+      <point x="339" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="-33" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="239" y="271" type="line"/>
+      <point x="146" y="528" type="line"/>
+      <point x="70" y="528" type="line"/>
+      <point x="160" y="276" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="0" type="line"/>
+      <point x="282" y="0" type="line"/>
+      <point x="366" y="528" type="line"/>
+      <point x="293" y="528" type="line"/>
+    </contour>
+  </outline>
+</glyph>

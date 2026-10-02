@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ampersand_equal.liga.cv15" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="13" y="77" type="line"/>
+      <point x="469" y="77" type="line"/>
+      <point x="489" y="202" type="line"/>
+      <point x="33" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="-351" y="0" type="curve"/>
+      <point x="-140" y="0" type="line"/>
+      <point x="-91" y="308" type="line"/>
+      <point x="506" y="308" type="line"/>
+      <point x="524" y="426" type="line"/>
+      <point x="-282" y="426" type="line" smooth="yes"/>
+      <point x="-336" y="426"/>
+      <point x="-356" y="446"/>
+      <point x="-347" y="504" type="curve" smooth="yes"/>
+      <point x="-337" y="562"/>
+      <point x="-311" y="582"/>
+      <point x="-257" y="582" type="curve"/>
+      <point x="-89" y="582" type="line"/>
+      <point x="-70" y="701" type="line"/>
+      <point x="-238" y="701" type="line"/>
+      <point x="-394" y="701"/>
+      <point x="-466" y="648"/>
+      <point x="-486" y="518" type="curve" smooth="yes"/>
+      <point x="-498" y="441"/>
+      <point x="-460" y="383"/>
+      <point x="-392" y="373" type="curve"/>
+      <point x="-393" y="372" type="line"/>
+      <point x="-472" y="363"/>
+      <point x="-539" y="292"/>
+      <point x="-551" y="210" type="curve" smooth="yes"/>
+      <point x="-575" y="59"/>
+      <point x="-516" y="0"/>
+    </contour>
+    <contour>
+      <point x="-332" y="121" type="line"/>
+      <point x="-396" y="121"/>
+      <point x="-420" y="145"/>
+      <point x="-410" y="214" type="curve" smooth="yes"/>
+      <point x="-399" y="283"/>
+      <point x="-367" y="308"/>
+      <point x="-302" y="308" type="curve" smooth="yes"/>
+      <point x="-229" y="308" type="line"/>
+      <point x="-259" y="121" type="line"/>
+    </contour>
+  </outline>
+</glyph>

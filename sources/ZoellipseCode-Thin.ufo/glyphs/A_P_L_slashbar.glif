@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLslashbar" format="2">
+  <advance width="576"/>
+  <unicode hex="233F"/>
+  <outline>
+    <contour>
+      <point x="58" y="298" type="line"/>
+      <point x="518" y="298" type="line"/>
+      <point x="518" y="341" type="line"/>
+      <point x="58" y="341" type="line"/>
+    </contour>
+    <component base="slash"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

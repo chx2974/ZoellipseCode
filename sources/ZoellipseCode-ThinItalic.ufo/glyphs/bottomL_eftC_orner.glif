@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bottomLeftCorner" format="2">
+  <advance width="576"/>
+  <unicode hex="231E"/>
+  <outline>
+    <contour>
+      <point x="157" y="-106" type="line"/>
+      <point x="445" y="-106" type="line"/>
+      <point x="452" y="-62" type="line"/>
+      <point x="212" y="-62" type="line"/>
+      <point x="252" y="182" type="line"/>
+      <point x="204" y="182" type="line"/>
+    </contour>
+  </outline>
+</glyph>

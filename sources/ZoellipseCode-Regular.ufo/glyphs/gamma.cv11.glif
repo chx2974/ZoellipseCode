@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gamma.cv11" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="251" y="-173" type="line"/>
+      <point x="343" y="-173" type="line"/>
+      <point x="343" y="0" type="line"/>
+      <point x="526" y="528" type="line"/>
+      <point x="433" y="528" type="line"/>
+      <point x="324" y="183" type="line" smooth="yes"/>
+      <point x="309" y="139"/>
+      <point x="303" y="103"/>
+      <point x="300" y="82" type="curve"/>
+      <point x="296" y="103"/>
+      <point x="291" y="139"/>
+      <point x="277" y="183" type="curve" smooth="yes"/>
+      <point x="204" y="428" type="line" smooth="yes"/>
+      <point x="183" y="496"/>
+      <point x="128" y="532"/>
+      <point x="53" y="532" type="curve" smooth="yes"/>
+      <point x="24" y="532" type="line"/>
+      <point x="24" y="449" type="line"/>
+      <point x="54" y="449" type="line" smooth="yes"/>
+      <point x="85" y="449"/>
+      <point x="108" y="433"/>
+      <point x="118" y="403" type="curve" smooth="yes"/>
+      <point x="251" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

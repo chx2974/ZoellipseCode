@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightOneEighthBlock" format="2">
+  <advance width="576"/>
+  <unicode hex="2595"/>
+  <outline>
+    <contour>
+      <point x="504" y="-288" type="line"/>
+      <point x="576" y="-288" type="line"/>
+      <point x="576" y="979" type="line"/>
+      <point x="504" y="979" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hdoubleStruck" format="2">
+  <advance width="576"/>
+  <unicode hex="1D559"/>
+  <outline>
+    <contour>
+      <point x="72" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="346" type="line" smooth="yes"/>
+      <point x="210" y="440"/>
+      <point x="257" y="499"/>
+      <point x="336" y="499" type="curve" smooth="yes"/>
+      <point x="348" y="499"/>
+      <point x="358" y="498"/>
+      <point x="369" y="495" type="curve"/>
+      <point x="369" y="0" type="line"/>
+      <point x="507" y="0" type="line"/>
+      <point x="507" y="346" type="line" smooth="yes"/>
+      <point x="507" y="464"/>
+      <point x="444" y="538"/>
+      <point x="346" y="538" type="curve" smooth="yes"/>
+      <point x="279" y="538"/>
+      <point x="231" y="507"/>
+      <point x="210" y="453" type="curve"/>
+      <point x="210" y="701" type="line"/>
+      <point x="72" y="701" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="38" type="line"/>
+      <point x="112" y="662" type="line"/>
+      <point x="170" y="662" type="line"/>
+      <point x="170" y="38" type="line"/>
+    </contour>
+    <contour>
+      <point x="409" y="38" type="line"/>
+      <point x="409" y="477" type="line"/>
+      <point x="445" y="452"/>
+      <point x="467" y="406"/>
+      <point x="467" y="346" type="curve" smooth="yes"/>
+      <point x="467" y="38" type="line"/>
+    </contour>
+  </outline>
+</glyph>

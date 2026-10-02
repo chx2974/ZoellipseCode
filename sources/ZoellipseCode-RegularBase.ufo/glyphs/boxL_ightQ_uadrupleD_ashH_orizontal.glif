@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxLightQuadrupleDashHorizontal" format="2">
+  <advance width="576"/>
+  <unicode hex="2508"/>
+  <outline>
+    <contour>
+      <point x="456" y="307" type="line"/>
+      <point x="552" y="307" type="line"/>
+      <point x="552" y="403" type="line"/>
+      <point x="456" y="403" type="line"/>
+    </contour>
+    <contour>
+      <point x="24" y="307" type="line"/>
+      <point x="120" y="307" type="line"/>
+      <point x="120" y="403" type="line"/>
+      <point x="24" y="403" type="line"/>
+    </contour>
+    <contour>
+      <point x="168" y="307" type="line"/>
+      <point x="264" y="307" type="line"/>
+      <point x="264" y="403" type="line"/>
+      <point x="168" y="403" type="line"/>
+    </contour>
+    <contour>
+      <point x="312" y="307" type="line"/>
+      <point x="408" y="307" type="line"/>
+      <point x="408" y="403" type="line"/>
+      <point x="312" y="403" type="line"/>
+    </contour>
+  </outline>
+</glyph>

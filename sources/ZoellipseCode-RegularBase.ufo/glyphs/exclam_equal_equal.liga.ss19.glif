@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam_equal_equal.liga.ss19" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-662" y="394" type="line"/>
+      <point x="-197" y="394" type="line"/>
+      <point x="-197" y="470" type="line"/>
+      <point x="-662" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="-662" y="163" type="line"/>
+      <point x="-197" y="163" type="line"/>
+      <point x="-197" y="240" type="line"/>
+      <point x="-662" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="-82" y="394" type="line"/>
+      <point x="384" y="394" type="line"/>
+      <point x="384" y="470" type="line"/>
+      <point x="-82" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="-82" y="163" type="line"/>
+      <point x="384" y="163" type="line"/>
+      <point x="384" y="240" type="line"/>
+      <point x="-82" y="240" type="line"/>
+    </contour>
+    <component base="exclam" xOffset="-1186"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPPC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLdowntackunderbar" format="2">
+  <advance width="576"/>
+  <unicode hex="234A"/>
+  <outline>
+    <contour>
+      <point x="0" y="-164" type="line"/>
+      <point x="576" y="-164" type="line"/>
+      <point x="576" y="-86" type="line"/>
+      <point x="0" y="-86" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="0" type="line"/>
+      <point x="576" y="0" type="line"/>
+      <point x="576" y="82" type="line"/>
+      <point x="334" y="82" type="line"/>
+      <point x="334" y="576" type="line"/>
+      <point x="242" y="576" type="line"/>
+      <point x="242" y="82" type="line"/>
+      <point x="0" y="82" type="line"/>
+    </contour>
+  </outline>
+</glyph>

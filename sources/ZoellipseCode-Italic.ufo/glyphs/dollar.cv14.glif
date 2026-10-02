@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar.cv14" format="2">
+  <advance width="576"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="357" y="701" name="top"/>
+  <outline>
+    <contour>
+      <point x="343" y="864" type="line"/>
+      <point x="313" y="682" type="line"/>
+      <point x="405" y="682" type="line"/>
+      <point x="435" y="864" type="line"/>
+    </contour>
+    <contour>
+      <point x="208" y="19" type="line"/>
+      <point x="177" y="-173" type="line"/>
+      <point x="270" y="-173" type="line"/>
+      <point x="301" y="19" type="line"/>
+    </contour>
+    <component base="S"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questionedequalto" format="2">
+  <advance width="576"/>
+  <unicode hex="225F"/>
+  <outline>
+    <contour>
+      <point x="236" y="523" type="line"/>
+      <point x="303" y="523" type="line"/>
+      <point x="303" y="557" type="line"/>
+      <point x="316" y="557" type="line" smooth="yes"/>
+      <point x="402" y="557"/>
+      <point x="436" y="586"/>
+      <point x="436" y="667" type="curve" smooth="yes"/>
+      <point x="436" y="748"/>
+      <point x="402" y="782"/>
+      <point x="316" y="782" type="curve" smooth="yes"/>
+      <point x="177" y="782" type="line"/>
+      <point x="177" y="706" type="line"/>
+      <point x="307" y="706" type="line" smooth="yes"/>
+      <point x="338" y="706"/>
+      <point x="349" y="693"/>
+      <point x="349" y="662" type="curve" smooth="yes"/>
+      <point x="349" y="632"/>
+      <point x="338" y="619"/>
+      <point x="307" y="619" type="curve" smooth="yes"/>
+      <point x="236" y="619" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="0" type="line"/>
+      <point x="499" y="0" type="line"/>
+      <point x="499" y="134" type="line"/>
+      <point x="77" y="134" type="line"/>
+    </contour>
+    <contour>
+      <point x="77" y="240" type="line"/>
+      <point x="499" y="240" type="line"/>
+      <point x="499" y="374" type="line"/>
+      <point x="77" y="374" type="line"/>
+    </contour>
+    <contour>
+      <point x="271" y="416" type="curve" smooth="yes"/>
+      <point x="303" y="416"/>
+      <point x="317" y="426"/>
+      <point x="317" y="456" type="curve" smooth="yes"/>
+      <point x="317" y="483"/>
+      <point x="303" y="494"/>
+      <point x="271" y="494" type="curve" smooth="yes"/>
+      <point x="236" y="494"/>
+      <point x="223" y="483"/>
+      <point x="223" y="456" type="curve" smooth="yes"/>
+      <point x="223" y="426"/>
+      <point x="236" y="416"/>
+    </contour>
+  </outline>
+</glyph>

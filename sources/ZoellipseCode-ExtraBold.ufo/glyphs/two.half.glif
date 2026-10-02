@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.half" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="57" y="0" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="332" y="75" type="line"/>
+      <point x="185" y="75" type="line"/>
+      <point x="248" y="106" type="line" smooth="yes"/>
+      <point x="297" y="130"/>
+      <point x="324" y="163"/>
+      <point x="324" y="210" type="curve" smooth="yes"/>
+      <point x="324" y="292"/>
+      <point x="284" y="326"/>
+      <point x="190" y="326" type="curve" smooth="yes"/>
+      <point x="110" y="326"/>
+      <point x="53" y="273"/>
+      <point x="49" y="195" type="curve"/>
+      <point x="132" y="195" type="line"/>
+      <point x="132" y="234"/>
+      <point x="149" y="251"/>
+      <point x="190" y="251" type="curve" smooth="yes"/>
+      <point x="226" y="251"/>
+      <point x="241" y="238"/>
+      <point x="241" y="207" type="curve" smooth="yes"/>
+      <point x="241" y="189"/>
+      <point x="230" y="172"/>
+      <point x="211" y="161" type="curve" smooth="yes"/>
+      <point x="57" y="79" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

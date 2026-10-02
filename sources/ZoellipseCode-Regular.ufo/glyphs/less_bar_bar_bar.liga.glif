@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_bar_bar_bar.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="40" y="-82" type="line"/>
+      <point x="132" y="-82" type="line"/>
+      <point x="132" y="720" type="line"/>
+      <point x="40" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="-372" y="-82" type="line"/>
+      <point x="-280" y="-82" type="line"/>
+      <point x="-280" y="720" type="line"/>
+      <point x="-372" y="720" type="line"/>
+    </contour>
+    <component base="less_bar.liga" xOffset="-1008"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>less_bar.liga</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

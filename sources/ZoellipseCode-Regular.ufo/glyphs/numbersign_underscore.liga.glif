@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_underscore.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-296" y="-101" type="line"/>
+      <point x="519" y="-101" type="line"/>
+      <point x="519" y="-24" type="line"/>
+      <point x="-211" y="-24" type="line"/>
+      <point x="-170" y="199" type="line"/>
+      <point x="-67" y="199" type="line"/>
+      <point x="-67" y="264" type="line"/>
+      <point x="-159" y="264" type="line"/>
+      <point x="-127" y="437" type="line"/>
+      <point x="-34" y="437" type="line"/>
+      <point x="-34" y="502" type="line"/>
+      <point x="-116" y="502" type="line"/>
+      <point x="-79" y="701" type="line"/>
+      <point x="-149" y="701" type="line"/>
+      <point x="-185" y="502" type="line"/>
+      <point x="-337" y="502" type="line"/>
+      <point x="-299" y="701" type="line"/>
+      <point x="-370" y="701" type="line"/>
+      <point x="-406" y="502" type="line"/>
+      <point x="-509" y="502" type="line"/>
+      <point x="-509" y="437" type="line"/>
+      <point x="-418" y="437" type="line"/>
+      <point x="-449" y="264" type="line"/>
+      <point x="-542" y="264" type="line"/>
+      <point x="-542" y="199" type="line"/>
+      <point x="-461" y="199" type="line"/>
+      <point x="-497" y="0" type="line"/>
+      <point x="-427" y="0" type="line"/>
+      <point x="-391" y="199" type="line"/>
+      <point x="-240" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="-380" y="264" type="line"/>
+      <point x="-347" y="437" type="line"/>
+      <point x="-197" y="437" type="line"/>
+      <point x="-229" y="264" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lowringmod" format="2">
+  <advance width="576"/>
+  <unicode hex="02F3"/>
+  <anchor x="247" y="0" name="_bottom"/>
+  <anchor x="206" y="-250" name="bottom"/>
+  <outline>
+    <component base="ringbelowcomb" xOffset="576"/>
+  </outline>
+</glyph>

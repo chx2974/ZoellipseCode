@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parallel" format="2">
+  <advance width="576"/>
+  <unicode hex="2225"/>
+  <outline>
+    <contour>
+      <point x="341" y="0" type="line"/>
+      <point x="427" y="0" type="line"/>
+      <point x="427" y="701" type="line"/>
+      <point x="341" y="701" type="line"/>
+    </contour>
+    <contour>
+      <point x="149" y="0" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="235" y="701" type="line"/>
+      <point x="149" y="701" type="line"/>
+    </contour>
+  </outline>
+</glyph>

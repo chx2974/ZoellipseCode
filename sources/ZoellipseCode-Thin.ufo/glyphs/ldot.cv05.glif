@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot.cv05" format="2">
+  <advance width="576"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="235" y="701" name="top"/>
+  <outline>
+    <contour>
+      <point x="343" y="-10" type="curve" smooth="yes"/>
+      <point x="462" y="-10"/>
+      <point x="507" y="36"/>
+      <point x="507" y="157" type="curve" smooth="yes"/>
+      <point x="507" y="211" type="line"/>
+      <point x="461" y="211" type="line"/>
+      <point x="461" y="157" type="line" smooth="yes"/>
+      <point x="461" y="68"/>
+      <point x="429" y="34"/>
+      <point x="343" y="34" type="curve" smooth="yes"/>
+      <point x="255" y="34"/>
+      <point x="223" y="68"/>
+      <point x="223" y="157" type="curve" smooth="yes"/>
+      <point x="223" y="701" type="line"/>
+      <point x="-5" y="701" type="line"/>
+      <point x="-5" y="658" type="line"/>
+      <point x="175" y="658" type="line"/>
+      <point x="175" y="157" type="line" smooth="yes"/>
+      <point x="175" y="36"/>
+      <point x="220" y="-10"/>
+    </contour>
+    <component base="period" xOffset="208" yOffset="283"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

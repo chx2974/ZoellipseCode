@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notsubset" format="2">
+  <advance width="576"/>
+  <unicode hex="2284"/>
+  <outline>
+    <contour>
+      <point x="59" y="-58" type="line"/>
+      <point x="146" y="-58" type="line"/>
+      <point x="542" y="749" type="line"/>
+      <point x="455" y="749" type="line"/>
+    </contour>
+    <component base="subset"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>subset</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

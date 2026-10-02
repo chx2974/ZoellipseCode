@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W.cv07" format="2">
+  <advance width="576"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="357" y="701" name="top"/>
+  <outline>
+    <contour>
+      <point x="75" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="329" y="509" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="418" y="0" type="line"/>
+      <point x="607" y="701" type="line"/>
+      <point x="556" y="701" type="line"/>
+      <point x="423" y="182" type="line" smooth="yes"/>
+      <point x="415" y="148"/>
+      <point x="395" y="80"/>
+      <point x="385" y="36" type="curve"/>
+      <point x="388" y="79"/>
+      <point x="386" y="146"/>
+      <point x="384" y="182" type="curve" smooth="yes"/>
+      <point x="364" y="552" type="line"/>
+      <point x="304" y="552" type="line"/>
+      <point x="164" y="182" type="line" smooth="yes"/>
+      <point x="152" y="149"/>
+      <point x="132" y="79"/>
+      <point x="120" y="36" type="curve"/>
+      <point x="124" y="80"/>
+      <point x="125" y="148"/>
+      <point x="127" y="182" type="curve" smooth="yes"/>
+      <point x="154" y="701" type="line"/>
+      <point x="108" y="701" type="line"/>
+    </contour>
+  </outline>
+</glyph>

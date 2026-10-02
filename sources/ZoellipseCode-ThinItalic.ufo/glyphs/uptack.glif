@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uptack" format="2">
+  <advance width="576"/>
+  <unicode hex="22A5"/>
+  <outline>
+    <component base="tackdown" yScale="-1" yOffset="576"/>
+  </outline>
+</glyph>

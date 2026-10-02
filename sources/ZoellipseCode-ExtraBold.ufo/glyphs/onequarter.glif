@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onequarter" format="2">
+  <advance width="576"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="36" y="388" type="line"/>
+      <point x="318" y="388" type="line"/>
+      <point x="318" y="460" type="line"/>
+      <point x="231" y="460" type="line"/>
+      <point x="231" y="700" type="line"/>
+      <point x="121" y="700" type="line"/>
+      <point x="49" y="648" type="line"/>
+      <point x="49" y="554" type="line"/>
+      <point x="108" y="599" type="line" smooth="yes"/>
+      <point x="122" y="611"/>
+      <point x="137" y="629"/>
+      <point x="145" y="640" type="curve"/>
+      <point x="145" y="460" type="line"/>
+      <point x="36" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="441" y="0" type="line"/>
+      <point x="527" y="0" type="line"/>
+      <point x="527" y="197" type="line"/>
+      <point x="441" y="197" type="line"/>
+      <point x="441" y="125" type="line"/>
+      <point x="369" y="125" type="line"/>
+      <point x="369" y="140" type="line"/>
+      <point x="498" y="312" type="line"/>
+      <point x="403" y="312" type="line"/>
+      <point x="282" y="154" type="line"/>
+      <point x="282" y="58" type="line"/>
+      <point x="441" y="58" type="line"/>
+    </contour>
+    <component base="fraction"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

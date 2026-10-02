@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslashacute" format="2">
+  <advance width="576"/>
+  <unicode hex="01FF"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="348" y="528" name="horn"/>
+  <anchor x="408" y="754" name="top"/>
+  <outline>
+    <component base="oslash"/>
+    <component base="acutecomb" xOffset="588"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>oslash</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

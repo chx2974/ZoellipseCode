@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endescender-cy" format="2">
+  <advance width="576"/>
+  <unicode hex="04A3"/>
+  <anchor x="513" y="0" name="stick-cy"/>
+  <outline>
+    <contour>
+      <point x="54" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="198" y="201" type="line"/>
+      <point x="359" y="201" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="503" y="0" type="line"/>
+      <point x="503" y="528" type="line"/>
+      <point x="359" y="528" type="line"/>
+      <point x="359" y="335" type="line"/>
+      <point x="198" y="335" type="line"/>
+      <point x="198" y="528" type="line"/>
+      <point x="54" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="441" y="-134" type="line"/>
+      <point x="565" y="-134" type="line"/>
+      <point x="565" y="134" type="line"/>
+      <point x="441" y="134" type="line"/>
+    </contour>
+  </outline>
+</glyph>

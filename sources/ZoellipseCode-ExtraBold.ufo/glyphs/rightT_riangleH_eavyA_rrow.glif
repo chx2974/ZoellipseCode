@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightTriangleHeavyArrow" format="2">
+  <advance width="576"/>
+  <unicode hex="279E"/>
+  <outline>
+    <contour>
+      <point x="383" y="101" type="line"/>
+      <point x="566" y="317" type="line"/>
+      <point x="383" y="533" type="line"/>
+      <point x="383" y="370" type="line"/>
+      <point x="10" y="370" type="line"/>
+      <point x="10" y="264" type="line"/>
+      <point x="383" y="264" type="line"/>
+    </contour>
+  </outline>
+</glyph>

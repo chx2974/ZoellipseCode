@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ytilde.cv11" format="2">
+  <advance width="576"/>
+  <anchor x="288" y="0" name="bottom"/>
+  <anchor x="288" y="749" name="top"/>
+  <outline>
+    <component base="y.cv11"/>
+    <component base="tildecomb" xOffset="576"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>y.cv11</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

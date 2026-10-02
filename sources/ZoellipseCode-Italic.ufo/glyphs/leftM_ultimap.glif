@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftMultimap" format="2">
+  <advance width="576"/>
+  <unicode hex="27DC"/>
+  <outline>
+    <component base="multimap" xScale="-1.0" xOffset="576"/>
+  </outline>
+</glyph>

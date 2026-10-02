@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u.cv12" format="2">
+  <advance width="576"/>
+  <anchor x="288" y="528" name="top"/>
+  <anchor x="288" y="0" name="bottom"/>
+  <anchor x="403" y="528" name="horn"/>
+  <anchor x="443" y="0" name="ogonek"/>
+  <anchor x="557" y="528" name="topright"/>
+  <outline>
+    <component base="n" xScale="-1.0" yScale="-1.0" xOffset="576" yOffset="528"/>
+  </outline>
+</glyph>

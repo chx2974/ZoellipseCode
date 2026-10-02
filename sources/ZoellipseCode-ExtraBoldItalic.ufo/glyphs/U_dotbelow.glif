@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Udotbelow" format="2">
+  <advance width="576"/>
+  <unicode hex="1EE4"/>
+  <anchor x="210" y="-224" name="bottom"/>
+  <anchor x="439" y="701" name="horn"/>
+  <anchor x="293" y="0" name="ogonek"/>
+  <anchor x="357" y="701" name="top"/>
+  <anchor x="626" y="701" name="topright"/>
+  <outline>
+    <component base="U"/>
+    <component base="dotbelowcomb" xOffset="575"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="te-cy" format="2">
+  <advance width="576"/>
+  <unicode hex="0442"/>
+  <anchor x="557" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="264" y="0" type="line"/>
+      <point x="312" y="0" type="line"/>
+      <point x="312" y="480" type="line"/>
+      <point x="504" y="480" type="line"/>
+      <point x="504" y="528" type="line"/>
+      <point x="72" y="528" type="line"/>
+      <point x="72" y="480" type="line"/>
+      <point x="264" y="480" type="line"/>
+    </contour>
+  </outline>
+</glyph>

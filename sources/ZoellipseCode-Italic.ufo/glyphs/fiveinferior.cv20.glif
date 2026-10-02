@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fiveinferior.cv20" format="2">
+  <advance width="576"/>
+  <outline>
+    <component base="fivesuperior.cv20" xOffset="-79" yOffset="-494"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>five</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>five</string>
+    </dict>
+  </lib>
+</glyph>

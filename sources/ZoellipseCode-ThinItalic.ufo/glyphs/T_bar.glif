@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tbar" format="2">
+  <advance width="576"/>
+  <unicode hex="0166"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="301" y="350" name="center"/>
+  <anchor x="357" y="701" name="top"/>
+  <outline>
+    <contour>
+      <point x="121" y="298" type="line"/>
+      <point x="467" y="298" type="line"/>
+      <point x="473" y="341" type="line"/>
+      <point x="128" y="341" type="line"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

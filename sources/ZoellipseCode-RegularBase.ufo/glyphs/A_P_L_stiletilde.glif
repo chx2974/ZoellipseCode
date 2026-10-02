@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLstiletilde" format="2">
+  <advance width="576"/>
+  <unicode hex="236D"/>
+  <outline>
+    <contour>
+      <point x="264" y="-106" type="line"/>
+      <point x="312" y="-106" type="line"/>
+      <point x="312" y="797" type="line"/>
+      <point x="264" y="797" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="248" type="line"/>
+      <point x="144" y="248" type="line"/>
+      <point x="144" y="276" type="line" smooth="yes"/>
+      <point x="144" y="308"/>
+      <point x="156" y="320"/>
+      <point x="189" y="320" type="curve" smooth="yes"/>
+      <point x="249" y="320"/>
+      <point x="292" y="243"/>
+      <point x="389" y="243" type="curve" smooth="yes"/>
+      <point x="480" y="243"/>
+      <point x="514" y="278"/>
+      <point x="514" y="372" type="curve" smooth="yes"/>
+      <point x="514" y="387" type="line"/>
+      <point x="432" y="387" type="line"/>
+      <point x="432" y="358" type="line" smooth="yes"/>
+      <point x="432" y="326"/>
+      <point x="420" y="315"/>
+      <point x="387" y="315" type="curve" smooth="yes"/>
+      <point x="326" y="315"/>
+      <point x="283" y="392"/>
+      <point x="187" y="392" type="curve" smooth="yes"/>
+      <point x="96" y="392"/>
+      <point x="62" y="356"/>
+      <point x="62" y="262" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

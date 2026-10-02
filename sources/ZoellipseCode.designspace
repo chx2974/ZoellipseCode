@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes elidedfallbackname="Regular">
+    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="400">
+      <map input="100" output="100"/>
+      <map input="200" output="207.7"/>
+      <map input="300" output="330.8"/>
+      <map input="400" output="435.1"/>
+      <map input="500" output="540.4"/>
+      <map input="600" output="638.6"/>
+      <map input="700" output="725.1"/>
+      <map input="800" output="800"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="ZoellipseCode-Thin.ufo" name="JetBrains Mono Thin" familyname="Zoellipse Code" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="ZoellipseCode-RegularBase.ufo" name="JetBrains Mono Regular" familyname="Zoellipse Code" stylename="Regular Base">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="ZoellipseCode-Regular.ufo" familyname="Zoellipse Code" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="435.1"/>
+      </location>
+    </source>
+    <source filename="ZoellipseCode-ExtraBold.ufo" name="JetBrains Mono ExtraBold" familyname="Zoellipse Code" stylename="ExtraBold">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+  </sources>
+  <variable-fonts>
+    <variable-font name="Regular" filename="JetBrainsMonoVF">
+      <axis-subsets>
+        <axis-subset name="Weight"/>
+      </axis-subsets>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameter.GSInstance.Variable Font Origin</key>
+          <string>CCC0BD40-BA8C-414E-B576-CF0B94E6C996</string>
+        </dict>
+      </lib>
+    </variable-font>
+  </variable-fonts>
+  <instances>
+    <instance name="JetBrains Mono Thin" familyname="Zoellipse Code" stylename="Thin" filename="instance_ufos/JetBrainsMono-Thin.ufo" postscriptfontname="ZoellipseCode-Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance name="JetBrains Mono ExtraLight" familyname="Zoellipse Code" stylename="ExtraLight" filename="instance_ufos/JetBrainsMono-ExtraLight.ufo" postscriptfontname="ZoellipseCode-ExtraLight" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="207.7"/>
+      </location>
+    </instance>
+    <instance name="JetBrains Mono Light" familyname="Zoellipse Code" stylename="Light" filename="instance_ufos/JetBrainsMono-Light.ufo" postscriptfontname="ZoellipseCode-Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="330.8"/>
+      </location>
+    </instance>
+    <instance name="JetBrains Mono Regular" familyname="Zoellipse Code" stylename="Regular" filename="instance_ufos/JetBrainsMono-Regular.ufo" postscriptfontname="ZoellipseCode-Regular" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="435.1"/>
+      </location>
+    </instance>
+    <instance name="JetBrains Mono Medium" familyname="Zoellipse Code" stylename="Medium" filename="instance_ufos/JetBrainsMono-Medium.ufo" postscriptfontname="ZoellipseCode-Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="540.4"/>
+      </location>
+    </instance>
+    <instance name="JetBrains Mono SemiBold" familyname="Zoellipse Code" stylename="SemiBold" filename="instance_ufos/JetBrainsMono-SemiBold.ufo" postscriptfontname="ZoellipseCode-SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="638.6"/>
+      </location>
+    </instance>
+    <instance name="JetBrains Mono Bold" familyname="Zoellipse Code" stylename="Bold" filename="instance_ufos/JetBrainsMono-Bold.ufo" postscriptfontname="ZoellipseCode-Bold" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="725.1"/>
+      </location>
+    </instance>
+    <instance name="JetBrains Mono ExtraBold" familyname="Zoellipse Code" stylename="ExtraBold" filename="instance_ufos/JetBrainsMono-ExtraBold.ufo" postscriptfontname="ZoellipseCode-ExtraBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>9ADF6715-3D0F-493D-8567-18A6FBCFC567</key>
+        <dict>
+          <key>HH</key>
+          <string>135</string>
+          <key>HV</key>
+          <integer>150</integer>
+          <key>OH</key>
+          <integer>130</integer>
+          <key>OV</key>
+          <integer>150</integer>
+          <key>nV</key>
+          <integer>150</integer>
+          <key>oH</key>
+          <integer>130</integer>
+          <key>oV</key>
+          <integer>150</integer>
+          <key>tH</key>
+          <string>135</string>
+        </dict>
+        <key>CCC0BD40-BA8C-414E-B576-CF0B94E6C996</key>
+        <dict>
+          <key>HH</key>
+          <string>82</string>
+          <key>HV</key>
+          <string>90</string>
+          <key>OH</key>
+          <integer>80</integer>
+          <key>OV</key>
+          <integer>90</integer>
+          <key>nV</key>
+          <integer>90</integer>
+          <key>oH</key>
+          <integer>80</integer>
+          <key>oV</key>
+          <integer>90</integer>
+          <key>tH</key>
+          <integer>82</integer>
+        </dict>
+        <key>EDF5EB54-295C-4C90-9A2F-67CD82979CFF</key>
+        <dict>
+          <key>HH</key>
+          <integer>45</integer>
+          <key>HV</key>
+          <integer>50</integer>
+          <key>OH</key>
+          <integer>44</integer>
+          <key>OV</key>
+          <integer>50</integer>
+          <key>nV</key>
+          <integer>50</integer>
+          <key>oH</key>
+          <integer>44</integer>
+          <key>oV</key>
+          <integer>50</integer>
+          <key>tH</key>
+          <integer>45</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K.half" format="2">
+  <advance width="384"/>
+  <outline>
+    <contour>
+      <point x="53" y="0" type="line"/>
+      <point x="97" y="0" type="line"/>
+      <point x="97" y="147" type="line"/>
+      <point x="181" y="147" type="line"/>
+      <point x="291" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="222" y="167" type="line"/>
+      <point x="336" y="322" type="line"/>
+      <point x="286" y="322" type="line"/>
+      <point x="182" y="183" type="line"/>
+      <point x="97" y="183" type="line"/>
+      <point x="97" y="322" type="line"/>
+      <point x="53" y="322" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

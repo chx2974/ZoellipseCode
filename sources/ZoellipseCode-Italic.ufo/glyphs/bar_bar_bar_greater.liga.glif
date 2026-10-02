@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar_bar_bar_greater.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-927" y="-82" type="line"/>
+      <point x="-834" y="-82" type="line"/>
+      <point x="-707" y="720" type="line"/>
+      <point x="-800" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1339" y="-82" type="line"/>
+      <point x="-1247" y="-82" type="line"/>
+      <point x="-1120" y="720" type="line"/>
+      <point x="-1213" y="720" type="line"/>
+    </contour>
+    <component base="bar_greater.liga" xOffset="-144"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bar_greater.liga</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

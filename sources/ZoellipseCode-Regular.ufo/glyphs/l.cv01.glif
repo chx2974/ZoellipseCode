@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.cv01" format="2">
+  <advance width="576"/>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="275" y="701" name="top"/>
+  <outline>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="533" y="0" type="line"/>
+      <point x="533" y="83" type="line"/>
+      <point x="343" y="83" type="line"/>
+      <point x="343" y="701" type="line"/>
+      <point x="80" y="701" type="line"/>
+      <point x="80" y="618" type="line"/>
+      <point x="251" y="618" type="line"/>
+      <point x="251" y="83" type="line"/>
+      <point x="61" y="83" type="line"/>
+    </contour>
+  </outline>
+</glyph>

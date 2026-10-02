@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kappa.cv08" format="2">
+  <advance width="576"/>
+  <anchor x="288" y="528" name="top"/>
+  <outline>
+    <component base="ka-cy.cv08"/>
+  </outline>
+</glyph>

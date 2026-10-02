@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhornacute.cv12" format="2">
+  <advance width="576"/>
+  <anchor x="285" y="0" name="bottom"/>
+  <anchor x="402" y="528" name="horn"/>
+  <anchor x="336" y="0" name="ogonek"/>
+  <anchor x="328" y="754" name="top"/>
+  <anchor x="557" y="528" name="topright"/>
+  <outline>
+    <component base="uhorn.cv12"/>
+    <component base="acutecomb" xOffset="584"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uhorn.cv12</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

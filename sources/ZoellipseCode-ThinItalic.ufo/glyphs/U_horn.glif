@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorn" format="2">
+  <advance width="576"/>
+  <unicode hex="01AF"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="445" y="701" name="horn"/>
+  <anchor x="293" y="0" name="ogonek"/>
+  <anchor x="346" y="701" name="top"/>
+  <anchor x="626" y="701" name="topright"/>
+  <outline>
+    <contour>
+      <point x="490" y="667" type="line"/>
+      <point x="542" y="667" type="line" smooth="yes"/>
+      <point x="600" y="667"/>
+      <point x="627" y="690"/>
+      <point x="636" y="749" type="curve" smooth="yes"/>
+      <point x="646" y="806" type="line"/>
+      <point x="608" y="806" type="line"/>
+      <point x="598" y="749" type="line" smooth="yes"/>
+      <point x="592" y="714"/>
+      <point x="579" y="701"/>
+      <point x="548" y="701" type="curve" smooth="yes"/>
+      <point x="495" y="701" type="line"/>
+    </contour>
+    <component base="U"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

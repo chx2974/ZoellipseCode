@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_equal.liga.ss19" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-479" y="394" type="line"/>
+      <point x="-37" y="394" type="line"/>
+      <point x="-25" y="470" type="line"/>
+      <point x="-467" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="-516" y="163" type="line"/>
+      <point x="-74" y="163" type="line"/>
+      <point x="-61" y="240" type="line"/>
+      <point x="-503" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="394" type="line"/>
+      <point x="519" y="394" type="line"/>
+      <point x="532" y="470" type="line"/>
+      <point x="90" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="41" y="163" type="line"/>
+      <point x="483" y="163" type="line"/>
+      <point x="495" y="240" type="line"/>
+      <point x="54" y="240" type="line"/>
+    </contour>
+  </outline>
+</glyph>

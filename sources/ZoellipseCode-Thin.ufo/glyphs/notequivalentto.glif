@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequivalentto" format="2">
+  <advance width="576"/>
+  <unicode hex="226D"/>
+  <outline>
+    <contour>
+      <point x="150" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="429" y="638" type="line"/>
+      <point x="385" y="638" type="line"/>
+    </contour>
+    <component base="equivalentto"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

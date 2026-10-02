@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="theredoesnotexist" format="2">
+  <advance width="576"/>
+  <unicode hex="2204"/>
+  <outline>
+    <contour>
+      <point x="5" y="-106" type="line"/>
+      <point x="79" y="-106" type="line"/>
+      <point x="552" y="797" type="line"/>
+      <point x="478" y="797" type="line"/>
+    </contour>
+    <component base="existential"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

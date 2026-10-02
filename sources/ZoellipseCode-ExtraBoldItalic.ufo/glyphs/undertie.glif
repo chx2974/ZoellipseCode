@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="undertie" format="2">
+  <advance width="576"/>
+  <unicode hex="203F"/>
+  <outline>
+    <contour>
+      <point x="163" y="-173" type="curve" smooth="yes"/>
+      <point x="413" y="-173" type="line" smooth="yes"/>
+      <point x="513" y="-173"/>
+      <point x="576" y="-107"/>
+      <point x="576" y="0" type="curve"/>
+      <point x="432" y="0" type="line"/>
+      <point x="432" y="-38"/>
+      <point x="412" y="-62"/>
+      <point x="379" y="-62" type="curve" smooth="yes"/>
+      <point x="197" y="-62" type="line" smooth="yes"/>
+      <point x="164" y="-62"/>
+      <point x="144" y="-38"/>
+      <point x="144" y="0" type="curve"/>
+      <point x="0" y="0" type="line"/>
+      <point x="0" y="-107"/>
+      <point x="63" y="-173"/>
+    </contour>
+  </outline>
+</glyph>

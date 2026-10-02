@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_bracketleft.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-540" y="0" type="line"/>
+      <point x="-469" y="0" type="line"/>
+      <point x="-401" y="198" type="line"/>
+      <point x="-251" y="198" type="line"/>
+      <point x="-319" y="0" type="line"/>
+      <point x="-249" y="0" type="line"/>
+      <point x="-180" y="198" type="line"/>
+      <point x="244" y="198" type="line"/>
+      <point x="254" y="264" type="line"/>
+      <point x="-158" y="264" type="line"/>
+      <point x="-99" y="437" type="line"/>
+      <point x="281" y="437" type="line"/>
+      <point x="292" y="503" type="line"/>
+      <point x="-78" y="503" type="line"/>
+      <point x="-10" y="701" type="line"/>
+      <point x="-80" y="701" type="line"/>
+      <point x="-148" y="503" type="line"/>
+      <point x="-298" y="503" type="line"/>
+      <point x="-230" y="701" type="line"/>
+      <point x="-301" y="701" type="line"/>
+      <point x="-369" y="503" type="line"/>
+      <point x="-471" y="503" type="line"/>
+      <point x="-482" y="437" type="line"/>
+      <point x="-390" y="437" type="line"/>
+      <point x="-449" y="264" type="line"/>
+      <point x="-542" y="264" type="line"/>
+      <point x="-553" y="198" type="line"/>
+      <point x="-471" y="198" type="line"/>
+    </contour>
+    <contour>
+      <point x="-379" y="264" type="line"/>
+      <point x="-320" y="437" type="line"/>
+      <point x="-169" y="437" type="line"/>
+      <point x="-229" y="264" type="line"/>
+    </contour>
+    <component base="bracketleft"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bracketleft</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

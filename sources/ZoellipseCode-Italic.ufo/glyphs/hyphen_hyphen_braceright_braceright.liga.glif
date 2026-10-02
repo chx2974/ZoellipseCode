@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen_hyphen_braceright_braceright.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-1645" y="275" type="line"/>
+      <point x="-220" y="275" type="line"/>
+      <point x="-206" y="358" type="line"/>
+      <point x="-1632" y="358" type="line"/>
+    </contour>
+    <component base="braceright" xOffset="-533" yOffset="-29"/>
+    <component base="braceright" xOffset="-24" yOffset="-29"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCC</string>
+    </dict>
+  </lib>
+</glyph>

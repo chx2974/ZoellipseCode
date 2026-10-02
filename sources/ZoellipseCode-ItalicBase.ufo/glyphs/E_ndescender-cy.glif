@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Endescender-cy" format="2">
+  <advance width="576"/>
+  <unicode hex="04A2"/>
+  <anchor x="242" y="0" name="bottom"/>
+  <anchor x="298" y="350" name="center"/>
+  <anchor x="353" y="701" name="top"/>
+  <anchor x="84" y="701" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="388" y="-134" type="line"/>
+      <point x="465" y="-134" type="line"/>
+      <point x="498" y="77" type="line"/>
+      <point x="421" y="77" type="line"/>
+    </contour>
+    <component base="H" xOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B.half" format="2">
+  <advance width="384"/>
+  <outline>
+    <contour>
+      <point x="13" y="0" type="line"/>
+      <point x="203" y="0" type="line" smooth="yes"/>
+      <point x="271" y="0"/>
+      <point x="304" y="27"/>
+      <point x="314" y="89" type="curve" smooth="yes"/>
+      <point x="324" y="150"/>
+      <point x="298" y="172"/>
+      <point x="228" y="172" type="curve"/>
+      <point x="228" y="161" type="line"/>
+      <point x="284" y="161"/>
+      <point x="312" y="182"/>
+      <point x="321" y="239" type="curve" smooth="yes"/>
+      <point x="330" y="298"/>
+      <point x="306" y="322"/>
+      <point x="239" y="322" type="curve" smooth="yes"/>
+      <point x="64" y="322" type="line"/>
+    </contour>
+    <contour>
+      <point x="63" y="37" type="line"/>
+      <point x="80" y="142" type="line"/>
+      <point x="222" y="142" type="line" smooth="yes"/>
+      <point x="262" y="142"/>
+      <point x="276" y="127"/>
+      <point x="271" y="90" type="curve" smooth="yes"/>
+      <point x="265" y="53"/>
+      <point x="246" y="37"/>
+      <point x="205" y="37" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="86" y="180" type="line"/>
+      <point x="103" y="284" type="line"/>
+      <point x="235" y="284" type="line" smooth="yes"/>
+      <point x="271" y="284"/>
+      <point x="282" y="269"/>
+      <point x="276" y="232" type="curve" smooth="yes"/>
+      <point x="271" y="195"/>
+      <point x="253" y="180"/>
+      <point x="218" y="180" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

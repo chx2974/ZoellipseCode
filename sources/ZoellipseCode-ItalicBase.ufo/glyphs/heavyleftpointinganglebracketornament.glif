@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heavyleftpointinganglebracketornament" format="2">
+  <advance width="576"/>
+  <unicode hex="2770"/>
+  <outline>
+    <contour>
+      <point x="233" y="0" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="348" y="350" type="line"/>
+      <point x="475" y="701" type="line"/>
+      <point x="233" y="701" type="line"/>
+      <point x="106" y="348" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doesnotdivide" format="2">
+  <advance width="576"/>
+  <unicode hex="2224"/>
+  <outline>
+    <contour>
+      <point x="114" y="134" type="line"/>
+      <point x="184" y="134" type="line"/>
+      <point x="462" y="566" type="line"/>
+      <point x="392" y="566" type="line"/>
+    </contour>
+    <component base="divides"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.cv01" format="2">
+  <advance width="576"/>
+  <anchor x="293" y="0" name="bottom"/>
+  <anchor x="285" y="701" name="top"/>
+  <outline>
+    <contour>
+      <point x="110" y="221" type="line"/>
+      <point x="475" y="403" type="line"/>
+      <point x="475" y="538" type="line"/>
+      <point x="110" y="355" type="line"/>
+    </contour>
+    <component base="l.cv01"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

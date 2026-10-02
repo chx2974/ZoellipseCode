@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eightinferior.cv19" format="2">
+  <advance width="576"/>
+  <outline>
+    <component base="eightsuperior.cv19" yOffset="-504"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>eight</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>eight</string>
+    </dict>
+  </lib>
+</glyph>

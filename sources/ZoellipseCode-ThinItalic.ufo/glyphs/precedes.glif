@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="precedes" format="2">
+  <advance width="576"/>
+  <unicode hex="227A"/>
+  <outline>
+    <contour>
+      <point x="427" y="53" type="curve"/>
+      <point x="470" y="53" type="line"/>
+      <point x="478" y="209"/>
+      <point x="360" y="311"/>
+      <point x="170" y="317" type="curve"/>
+      <point x="169" y="315" type="line"/>
+      <point x="361" y="319"/>
+      <point x="512" y="423"/>
+      <point x="553" y="576" type="curve"/>
+      <point x="510" y="576" type="line"/>
+      <point x="469" y="436"/>
+      <point x="302" y="346"/>
+      <point x="84" y="346" type="curve"/>
+      <point x="76" y="288" type="line"/>
+      <point x="294" y="288"/>
+      <point x="431" y="196"/>
+    </contour>
+  </outline>
+</glyph>

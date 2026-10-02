@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lambda.cv11" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="518" y="-5" type="curve" smooth="yes"/>
+      <point x="557" y="-5" type="line"/>
+      <point x="557" y="74" type="line"/>
+      <point x="518" y="74" type="line" smooth="yes"/>
+      <point x="485" y="74"/>
+      <point x="462" y="90"/>
+      <point x="451" y="121" type="curve" smooth="yes"/>
+      <point x="289" y="604" type="line" smooth="yes"/>
+      <point x="266" y="671"/>
+      <point x="220" y="706"/>
+      <point x="156" y="706" type="curve" smooth="yes"/>
+      <point x="84" y="706" type="line"/>
+      <point x="84" y="626" type="line"/>
+      <point x="142" y="626" type="line" smooth="yes"/>
+      <point x="173" y="626"/>
+      <point x="194" y="612"/>
+      <point x="205" y="583" type="curve" smooth="yes"/>
+      <point x="239" y="495" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="138" y="0" type="line"/>
+      <point x="258" y="326" type="line" smooth="yes"/>
+      <point x="268" y="352"/>
+      <point x="276" y="383"/>
+      <point x="280" y="403" type="curve"/>
+      <point x="284" y="382"/>
+      <point x="291" y="354"/>
+      <point x="300" y="323" type="curve" smooth="yes"/>
+      <point x="370" y="98" type="line" smooth="yes"/>
+      <point x="391" y="31"/>
+      <point x="444" y="-5"/>
+    </contour>
+  </outline>
+</glyph>

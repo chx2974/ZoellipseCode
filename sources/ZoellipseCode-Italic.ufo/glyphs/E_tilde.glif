@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etilde" format="2">
+  <advance width="576"/>
+  <unicode hex="1EBC"/>
+  <anchor x="297" y="0" name="bottom"/>
+  <anchor x="373" y="0" name="ogonek"/>
+  <anchor x="399" y="909" name="top"/>
+  <anchor x="88" y="701" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="tildecomb.case" xOffset="585"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

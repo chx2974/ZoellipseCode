@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLquotequad" format="2">
+  <advance width="576"/>
+  <unicode hex="235E"/>
+  <outline>
+    <contour>
+      <point x="266" y="413" type="line"/>
+      <point x="311" y="413" type="line"/>
+      <point x="320" y="538" type="line"/>
+      <point x="320" y="701" type="line"/>
+      <point x="256" y="701" type="line"/>
+      <point x="256" y="538" type="line"/>
+    </contour>
+    <component base="APLquad"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

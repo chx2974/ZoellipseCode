@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorndotbelow.cv12" format="2">
+  <advance width="576"/>
+  <anchor x="191" y="-224" name="bottom"/>
+  <anchor x="435" y="528" name="horn"/>
+  <anchor x="289" y="0" name="ogonek"/>
+  <anchor x="310" y="528" name="top"/>
+  <anchor x="598" y="528" name="topright"/>
+  <outline>
+    <component base="uhorn.cv12"/>
+    <component base="dotbelowcomb" xOffset="556"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uhorn.cv12</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLsemicolonunderbar" format="2">
+  <advance width="576"/>
+  <unicode hex="236E"/>
+  <outline>
+    <contour>
+      <point x="139" y="19" type="line"/>
+      <point x="264" y="19" type="line"/>
+      <point x="389" y="318" type="line"/>
+      <point x="216" y="318" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="-221" type="line"/>
+      <point x="470" y="-221" type="line"/>
+      <point x="470" y="-86" type="line"/>
+      <point x="106" y="-86" type="line"/>
+    </contour>
+    <contour>
+      <point x="278" y="538" type="curve" smooth="yes"/>
+      <point x="298" y="538" type="line" smooth="yes"/>
+      <point x="357" y="538"/>
+      <point x="384" y="564"/>
+      <point x="384" y="624" type="curve" smooth="yes"/>
+      <point x="384" y="684"/>
+      <point x="357" y="710"/>
+      <point x="298" y="710" type="curve" smooth="yes"/>
+      <point x="278" y="710" type="line" smooth="yes"/>
+      <point x="219" y="710"/>
+      <point x="192" y="684"/>
+      <point x="192" y="624" type="curve" smooth="yes"/>
+      <point x="192" y="564"/>
+      <point x="219" y="538"/>
+    </contour>
+  </outline>
+</glyph>

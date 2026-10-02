@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ytilde" format="2">
+  <advance width="576"/>
+  <unicode hex="1EF8"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="390" y="907" name="top"/>
+  <anchor x="88" y="701" name="topleft"/>
+  <outline>
+    <component base="Y"/>
+    <component base="tildecomb.case" xOffset="576"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydotbelow.cv11" format="2">
+  <advance width="576"/>
+  <anchor x="445" y="-206" name="bottom"/>
+  <anchor x="288" y="528" name="top"/>
+  <outline>
+    <component base="y.cv11"/>
+    <component base="dotbelowcomb" xOffset="733"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotbelowcomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

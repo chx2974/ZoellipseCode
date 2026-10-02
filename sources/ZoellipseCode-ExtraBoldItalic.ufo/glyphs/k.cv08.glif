@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k.cv08" format="2">
+  <advance width="576"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="357" y="701" name="top"/>
+  <outline>
+    <contour>
+      <point x="357" y="0" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="386" y="276" type="line"/>
+      <point x="598" y="528" type="line"/>
+      <point x="430" y="528" type="line"/>
+      <point x="223" y="278" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="285" y="701" type="line"/>
+      <point x="141" y="701" type="line"/>
+    </contour>
+  </outline>
+</glyph>

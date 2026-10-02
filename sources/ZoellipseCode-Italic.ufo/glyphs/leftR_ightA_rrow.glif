@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftRightArrow" format="2">
+  <advance width="576"/>
+  <unicode hex="2194"/>
+  <outline>
+    <contour>
+      <point x="38" y="275" type="curve"/>
+      <point x="538" y="275" type="line"/>
+      <point x="523" y="273"/>
+      <point x="504" y="258"/>
+      <point x="488" y="238" type="curve" smooth="yes"/>
+      <point x="338" y="47" type="line"/>
+      <point x="443" y="47" type="line"/>
+      <point x="655" y="318" type="line"/>
+      <point x="444" y="587" type="line"/>
+      <point x="338" y="587" type="line"/>
+      <point x="488" y="394" type="line" smooth="yes"/>
+      <point x="501" y="377"/>
+      <point x="518" y="363"/>
+      <point x="534" y="358" type="curve"/>
+      <point x="42" y="358" type="line"/>
+      <point x="58" y="363"/>
+      <point x="75" y="377"/>
+      <point x="88" y="394" type="curve" smooth="yes"/>
+      <point x="238" y="587" type="line"/>
+      <point x="132" y="587" type="line"/>
+      <point x="-79" y="318" type="line"/>
+      <point x="133" y="47" type="line"/>
+      <point x="238" y="47" type="line"/>
+      <point x="88" y="238" type="line" smooth="yes"/>
+      <point x="73" y="258"/>
+      <point x="53" y="273"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="EdoubleStruck" format="2">
+  <advance width="576"/>
+  <unicode hex="1D53C"/>
+  <outline>
+    <contour>
+      <point x="82" y="0" type="line"/>
+      <point x="509" y="0" type="line"/>
+      <point x="509" y="38" type="line"/>
+      <point x="222" y="38" type="line"/>
+      <point x="222" y="347" type="line"/>
+      <point x="475" y="347" type="line"/>
+      <point x="475" y="385" type="line"/>
+      <point x="222" y="385" type="line"/>
+      <point x="222" y="662" type="line"/>
+      <point x="509" y="662" type="line"/>
+      <point x="509" y="701" type="line"/>
+      <point x="82" y="701" type="line"/>
+    </contour>
+    <contour>
+      <point x="123" y="38" type="line"/>
+      <point x="123" y="662" type="line"/>
+      <point x="180" y="662" type="line"/>
+      <point x="180" y="38" type="line"/>
+    </contour>
+  </outline>
+</glyph>

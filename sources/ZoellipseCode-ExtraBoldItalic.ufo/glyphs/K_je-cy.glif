@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kje-cy" format="2">
+  <advance width="576"/>
+  <unicode hex="040C"/>
+  <anchor x="346" y="701" name="_top"/>
+  <anchor x="357" y="701" name="top"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <outline>
+    <component base="acutecomb.case" xOffset="576"/>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>K</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

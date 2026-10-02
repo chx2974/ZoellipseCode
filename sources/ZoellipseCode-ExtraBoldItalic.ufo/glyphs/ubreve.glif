@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ubreve" format="2">
+  <advance width="576"/>
+  <unicode hex="016D"/>
+  <anchor x="246" y="0" name="bottom"/>
+  <anchor x="435" y="528" name="horn"/>
+  <anchor x="293" y="0" name="ogonek"/>
+  <anchor x="365" y="754" name="top"/>
+  <anchor x="599" y="528" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="brevecomb" xOffset="575"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>u</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

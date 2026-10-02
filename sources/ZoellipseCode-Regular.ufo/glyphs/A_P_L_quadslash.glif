@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLquadslash" format="2">
+  <advance width="576"/>
+  <unicode hex="2341"/>
+  <outline>
+    <contour>
+      <point x="12" y="-86" type="line"/>
+      <point x="61" y="-86" type="line"/>
+      <point x="565" y="778" type="line"/>
+      <point x="516" y="778" type="line"/>
+    </contour>
+    <component base="APLquad"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

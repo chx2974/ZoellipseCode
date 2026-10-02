@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLquadlessthan" format="2">
+  <advance width="576"/>
+  <unicode hex="2343"/>
+  <outline>
+    <contour>
+      <point x="551" y="46" type="line"/>
+      <point x="551" y="132" type="line"/>
+      <point x="163" y="324" type="line" smooth="yes"/>
+      <point x="141" y="335"/>
+      <point x="117" y="345"/>
+      <point x="106" y="348" type="curve"/>
+      <point x="116" y="350"/>
+      <point x="139" y="359"/>
+      <point x="163" y="371" type="curve" smooth="yes"/>
+      <point x="554" y="563" type="line"/>
+      <point x="554" y="646" type="line"/>
+      <point x="23" y="381" type="line"/>
+      <point x="21" y="311" type="line"/>
+    </contour>
+    <component base="APLquad"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

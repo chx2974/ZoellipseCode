@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash_slash_equal.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-413" y="159" type="line"/>
+      <point x="434" y="159" type="line"/>
+      <point x="447" y="242" type="line"/>
+      <point x="-399" y="242" type="line"/>
+    </contour>
+    <contour>
+      <point x="-300" y="391" type="line"/>
+      <point x="471" y="391" type="line"/>
+      <point x="485" y="474" type="line"/>
+      <point x="-286" y="474" type="line"/>
+    </contour>
+    <component base="slash" xOffset="-629"/>
+    <component base="slash" xOffset="-1062"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>slash</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>slash</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPCC</string>
+    </dict>
+  </lib>
+</glyph>

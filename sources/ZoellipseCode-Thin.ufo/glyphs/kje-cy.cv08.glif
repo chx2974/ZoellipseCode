@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kje-cy.cv08" format="2">
+  <advance width="576"/>
+  <anchor x="342" y="754" name="top"/>
+  <outline>
+    <component base="ka-cy.cv08"/>
+    <component base="acutecomb" xOffset="595"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ka-cy.cv08</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

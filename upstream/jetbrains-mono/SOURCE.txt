@@ -1,0 +1,4 @@
+JetBrains Mono upstream sources, unmodified.
+Repository: https://github.com/JetBrains/JetBrainsMono
+Commit: 19371302b95d218af43299bce79ddbddd0bc364d (branch master, fetched 2026-10-02)
+Files: sources/JetBrainsMono.glyphs, sources/JetBrainsMono-Italic.glyphs, OFL.txt

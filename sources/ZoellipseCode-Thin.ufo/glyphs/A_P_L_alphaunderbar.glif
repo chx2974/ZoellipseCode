@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLalphaunderbar" format="2">
+  <advance width="576"/>
+  <unicode hex="2376"/>
+  <outline>
+    <contour>
+      <point x="91" y="-130" type="line"/>
+      <point x="533" y="-130" type="line"/>
+      <point x="533" y="-86" type="line"/>
+      <point x="91" y="-86" type="line"/>
+    </contour>
+    <component base="APLalpha"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

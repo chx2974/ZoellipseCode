@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_plus_greater.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-386" y="43" type="line"/>
+      <point x="-242" y="43" type="line"/>
+      <point x="-209" y="250" type="line"/>
+      <point x="-8" y="250" type="line"/>
+      <point x="13" y="384" type="line"/>
+      <point x="-188" y="384" type="line"/>
+      <point x="-156" y="590" type="line"/>
+      <point x="-300" y="590" type="line"/>
+      <point x="-332" y="384" type="line"/>
+      <point x="-534" y="384" type="line"/>
+      <point x="-555" y="250" type="line"/>
+      <point x="-353" y="250" type="line"/>
+    </contour>
+    <component base="less" xOffset="-1138"/>
+    <component base="greater" xOffset="-14"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>less</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>greater</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PCC</string>
+    </dict>
+  </lib>
+</glyph>

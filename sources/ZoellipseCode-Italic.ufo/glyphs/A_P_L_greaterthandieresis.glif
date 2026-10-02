@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLgreaterthandieresis" format="2">
+  <advance width="576"/>
+  <unicode hex="2369"/>
+  <anchor x="364" y="748" name="top"/>
+  <outline>
+    <component base="greater"/>
+    <component base="dieresiscomb" xOffset="576"/>
+  </outline>
+</glyph>

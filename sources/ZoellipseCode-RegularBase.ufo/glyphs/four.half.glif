@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.half" format="2">
+  <advance width="384"/>
+  <outline>
+    <contour>
+      <point x="252" y="0" type="line"/>
+      <point x="313" y="0" type="line"/>
+      <point x="313" y="216" type="line"/>
+      <point x="252" y="216" type="line"/>
+      <point x="252" y="121" type="line"/>
+      <point x="115" y="121" type="line"/>
+      <point x="115" y="131" type="line"/>
+      <point x="286" y="322" type="line"/>
+      <point x="211" y="322" type="line"/>
+      <point x="55" y="149" type="line"/>
+      <point x="55" y="63" type="line"/>
+      <point x="252" y="63" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

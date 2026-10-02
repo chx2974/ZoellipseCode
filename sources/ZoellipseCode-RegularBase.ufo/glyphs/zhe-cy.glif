@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy" format="2">
+  <advance width="576"/>
+  <unicode hex="0436"/>
+  <anchor x="557" y="0" name="bottomright"/>
+  <anchor x="288" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="14" y="0" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="201" y="241" type="line"/>
+      <point x="252" y="241" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="324" y="241" type="line"/>
+      <point x="375" y="241" type="line"/>
+      <point x="476" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="444" y="276" type="line"/>
+      <point x="554" y="528" type="line"/>
+      <point x="472" y="528" type="line"/>
+      <point x="372" y="300" type="line"/>
+      <point x="324" y="300" type="line"/>
+      <point x="324" y="528" type="line"/>
+      <point x="252" y="528" type="line"/>
+      <point x="252" y="300" type="line"/>
+      <point x="202" y="300" type="line"/>
+      <point x="105" y="528" type="line"/>
+      <point x="22" y="528" type="line"/>
+      <point x="132" y="273" type="line"/>
+    </contour>
+  </outline>
+</glyph>

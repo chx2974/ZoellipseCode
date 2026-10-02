@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="squareimageof" format="2">
+  <advance width="576"/>
+  <unicode hex="228F"/>
+  <outline>
+    <contour>
+      <point x="4" y="85" type="line"/>
+      <point x="518" y="85" type="line"/>
+      <point x="532" y="169" type="line"/>
+      <point x="109" y="169" type="line"/>
+      <point x="155" y="464" type="line"/>
+      <point x="579" y="464" type="line"/>
+      <point x="592" y="549" type="line"/>
+      <point x="77" y="549" type="line"/>
+    </contour>
+  </outline>
+</glyph>

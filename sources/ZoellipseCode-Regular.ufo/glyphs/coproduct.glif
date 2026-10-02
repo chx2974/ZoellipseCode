@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="coproduct" format="2">
+  <advance width="576"/>
+  <unicode hex="2210"/>
+  <outline>
+    <contour>
+      <point x="36" y="-173" type="line"/>
+      <point x="540" y="-173" type="line"/>
+      <point x="540" y="-89" type="line"/>
+      <point x="477" y="-89" type="line"/>
+      <point x="477" y="701" type="line"/>
+      <point x="386" y="701" type="line"/>
+      <point x="386" y="-89" type="line"/>
+      <point x="190" y="-89" type="line"/>
+      <point x="190" y="701" type="line"/>
+      <point x="99" y="701" type="line"/>
+      <point x="99" y="-89" type="line"/>
+      <point x="36" y="-89" type="line"/>
+    </contour>
+  </outline>
+</glyph>

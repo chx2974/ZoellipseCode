@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe-cy" format="2">
+  <advance width="576"/>
+  <unicode hex="043F"/>
+  <outline>
+    <contour>
+      <point x="63" y="0" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="188" y="485" type="line"/>
+      <point x="457" y="485" type="line"/>
+      <point x="380" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="512" y="528" type="line"/>
+      <point x="147" y="528" type="line"/>
+    </contour>
+  </outline>
+</glyph>

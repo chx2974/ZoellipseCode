@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ka-cy.cv08" format="2">
+  <advance width="576"/>
+  <anchor x="329" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="357" y="0" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="387" y="270" type="line"/>
+      <point x="598" y="528" type="line"/>
+      <point x="430" y="528" type="line"/>
+      <point x="222" y="272" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="257" y="528" type="line"/>
+      <point x="113" y="528" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,72 @@
+FONTLOG for Zoellipse Code
+========================
+
+This file provides detailed information on the Zoellipse Code font software. It
+should be distributed along with the fonts and any derivative works.
+
+Basic Font Information
+----------------------
+
+Zoellipse Code is a monospace variable typeface, a Modified Version of JetBrains
+Mono. It is built in code (Python, fontmake + fontTools) from the unmodified
+JetBrains Mono Glyphs sources. It ships as two variable fonts, upright and
+italic, each with a weight axis (wght 100-800) and eight named instances:
+Thin 100, ExtraLight 200, Light 300, Regular 400, Medium 500, SemiBold 600,
+Bold 700, ExtraBold 800. The two fonts are linked by the STAT "ital" axis.
+
+Version: 1.000 (first release).
+Designer: Charlie Champanhet
+Copyright: The Zoellipse Code Project Authors and The JetBrains Mono Project
+  Authors (see AUTHORS.txt)
+License: SIL Open Font License 1.1 (see OFL.txt). No Reserved Font Name.
+
+Changes compared to JetBrains Mono
+----------------------------------
+
+1. Curves get a slight superellipse feel: the handles of quarter curves
+   (horizontal to vertical) are lengthened the same way as in Zoellipse, which
+   lands at about superellipse exponent 2.65 on JetBrains Mono's already
+   flat-sided rounds.
+2. Build fixes: the weight axis mapping is read correctly so named instances
+   sit at 100 to 800 (Bold = 700); an empty glyph mapped to U+16910 is
+   unmapped; gasp, prep and meta tables are added.
+3. Everything is scaled to 96% inside the em so the x-height (0.528 em)
+   equals Zoellipse's; every glyph is 576 units wide (UPM 1000).
+4. Named weights are placed where the stems equal Zoellipse's at that weight.
+5. The font family is renamed to Zoellipse Code.
+
+Everything else is JetBrains Mono: code ligatures (calt), the "zero" feature
+(slashed and dotted zero alternates), proportions, italic at 9 degrees, about
+1780 glyphs.
+
+ChangeLog
+---------
+
+2026-10-02 (v1.000) First release.
+
+2026-10-02 (v0.100) Initial Modified Version of JetBrains Mono: superellipse-
+  style curves (exponent about 2.65), scaled 96% and weights matched to
+  Zoellipse for mixing at the same size, weight axis mapping fixed (named
+  instances at 100-800), empty glyph at U+16910 unmapped, gasp/prep/meta
+  tables added, renamed to Zoellipse Code.
+
+Acknowledgements
+----------------
+
+If you make modifications, be sure to add your name (N), email (E), web-address
+(W) and description (D). This list is in alphabetical order.
+
+N: Charlie Champanhet
+E: (not listed)
+W: (not listed)
+D: Zoellipse Code modifications (curves, build fixes, build code).
+
+N: Konstantin Bulenkov, Philipp Nurullin
+E: (not listed)
+W: https://github.com/JetBrains/JetBrainsMono
+D: Original designers of JetBrains Mono.
+
+N: The JetBrains Mono Project Authors
+E: (not listed)
+W: https://github.com/JetBrains/JetBrainsMono
+D: JetBrains Mono, the font Zoellipse Code is a Modified Version of.

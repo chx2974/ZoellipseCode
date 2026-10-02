@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r.cv10" format="2">
+  <advance width="576"/>
+  <anchor x="193" y="0" name="bottom"/>
+  <anchor x="348" y="528" name="top"/>
+  <outline>
+    <contour>
+      <point x="25" y="0" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="466" y="79" type="line"/>
+      <point x="263" y="79" type="line"/>
+      <point x="301" y="322" type="line" smooth="yes"/>
+      <point x="315" y="409"/>
+      <point x="358" y="442"/>
+      <point x="458" y="442" type="curve"/>
+      <point x="553" y="442" type="line"/>
+      <point x="566" y="529" type="line"/>
+      <point x="470" y="528" type="line"/>
+      <point x="367" y="528"/>
+      <point x="315" y="474"/>
+      <point x="295" y="345" type="curve"/>
+      <point x="326" y="397" type="line"/>
+      <point x="307" y="397" type="line"/>
+      <point x="327" y="528" type="line"/>
+      <point x="118" y="528" type="line"/>
+      <point x="106" y="449" type="line"/>
+      <point x="235" y="449" type="line"/>
+      <point x="177" y="79" type="line"/>
+      <point x="37" y="79" type="line"/>
+    </contour>
+  </outline>
+</glyph>

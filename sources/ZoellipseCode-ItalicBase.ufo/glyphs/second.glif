@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="second" format="2">
+  <advance width="576"/>
+  <unicode hex="2033"/>
+  <outline>
+    <component base="comma" xOffset="-101" yOffset="557"/>
+    <component base="comma" xOffset="117" yOffset="557"/>
+  </outline>
+</glyph>

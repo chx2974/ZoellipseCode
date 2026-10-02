@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="projective" format="2">
+  <advance width="576"/>
+  <unicode hex="2305"/>
+  <outline>
+    <contour>
+      <point x="51" y="618" type="line"/>
+      <point x="525" y="618" type="line"/>
+      <point x="525" y="701" type="line"/>
+      <point x="51" y="701" type="line"/>
+    </contour>
+    <component base="control" yOffset="-138"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

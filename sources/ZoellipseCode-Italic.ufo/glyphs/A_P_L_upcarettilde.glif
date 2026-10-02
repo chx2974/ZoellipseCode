@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLupcarettilde" format="2">
+  <advance width="576"/>
+  <unicode hex="2372"/>
+  <anchor x="329" y="528" name="_top"/>
+  <anchor x="364" y="750" name="top"/>
+  <outline>
+    <component base="tildecomb" xOffset="576"/>
+    <component base="logicaland"/>
+  </outline>
+</glyph>

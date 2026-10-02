@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="neitherapproximatelynoractuallyequalto" format="2">
+  <advance width="576"/>
+  <unicode hex="2247"/>
+  <outline>
+    <contour>
+      <point x="114" y="-96" type="line"/>
+      <point x="177" y="-96" type="line"/>
+      <point x="462" y="749" type="line"/>
+      <point x="399" y="749" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="67" type="line"/>
+      <point x="511" y="67" type="line"/>
+      <point x="511" y="144" type="line"/>
+      <point x="65" y="144" type="line"/>
+    </contour>
+    <contour>
+      <point x="65" y="278" type="line"/>
+      <point x="511" y="278" type="line"/>
+      <point x="511" y="355" type="line"/>
+      <point x="65" y="355" type="line"/>
+    </contour>
+    <component base="asciitilde" yOffset="209"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPPC</string>
+    </dict>
+  </lib>
+</glyph>

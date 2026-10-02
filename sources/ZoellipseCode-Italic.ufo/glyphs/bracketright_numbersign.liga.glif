@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright_numbersign.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="36" y="0" type="line"/>
+      <point x="107" y="0" type="line"/>
+      <point x="175" y="198" type="line"/>
+      <point x="325" y="198" type="line"/>
+      <point x="257" y="0" type="line"/>
+      <point x="327" y="0" type="line"/>
+      <point x="396" y="198" type="line"/>
+      <point x="497" y="198" type="line"/>
+      <point x="509" y="264" type="line"/>
+      <point x="418" y="264" type="line"/>
+      <point x="476" y="437" type="line"/>
+      <point x="569" y="437" type="line"/>
+      <point x="580" y="503" type="line"/>
+      <point x="497" y="503" type="line"/>
+      <point x="566" y="701" type="line"/>
+      <point x="496" y="701" type="line"/>
+      <point x="427" y="503" type="line"/>
+      <point x="277" y="503" type="line"/>
+      <point x="346" y="701" type="line"/>
+      <point x="275" y="701" type="line"/>
+      <point x="206" y="503" type="line"/>
+      <point x="-208" y="503" type="line"/>
+      <point x="-219" y="437" type="line"/>
+      <point x="185" y="437" type="line"/>
+      <point x="127" y="264" type="line"/>
+      <point x="-246" y="264" type="line"/>
+      <point x="-257" y="198" type="line"/>
+      <point x="105" y="198" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="264" type="line"/>
+      <point x="255" y="437" type="line"/>
+      <point x="406" y="437" type="line"/>
+      <point x="347" y="264" type="line"/>
+    </contour>
+    <component base="bracketright" xOffset="-576"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>bracketright</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

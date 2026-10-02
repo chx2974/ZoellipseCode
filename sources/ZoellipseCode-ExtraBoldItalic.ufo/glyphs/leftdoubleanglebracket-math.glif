@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftdoubleanglebracket-math" format="2">
+  <advance width="576"/>
+  <unicode hex="27EA"/>
+  <outline>
+    <contour>
+      <point x="358" y="-106" type="line"/>
+      <point x="411" y="-106" type="line"/>
+      <point x="136" y="346" type="line"/>
+      <point x="411" y="797" type="line"/>
+      <point x="358" y="797" type="line"/>
+      <point x="96" y="370" type="line"/>
+      <point x="96" y="321" type="line"/>
+    </contour>
+    <contour>
+      <point x="479" y="-106" type="line"/>
+      <point x="532" y="-106" type="line"/>
+      <point x="257" y="346" type="line"/>
+      <point x="532" y="797" type="line"/>
+      <point x="479" y="797" type="line"/>
+      <point x="217" y="370" type="line"/>
+      <point x="217" y="321" type="line"/>
+    </contour>
+  </outline>
+</glyph>

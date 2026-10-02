@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="znotationrightimagebracket" format="2">
+  <advance width="576"/>
+  <unicode hex="2988"/>
+  <outline>
+    <component base="znotationleftimagebracket" xScale="-1.0" xOffset="576"/>
+  </outline>
+</glyph>

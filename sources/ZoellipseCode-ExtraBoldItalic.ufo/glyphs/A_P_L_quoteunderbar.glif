@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLquoteunderbar" format="2">
+  <advance width="576"/>
+  <unicode hex="2358"/>
+  <outline>
+    <contour>
+      <point x="58" y="-221" type="line"/>
+      <point x="365" y="-221" type="line"/>
+      <point x="386" y="-86" type="line"/>
+      <point x="79" y="-86" type="line"/>
+    </contour>
+    <contour>
+      <point x="253" y="413" type="line"/>
+      <point x="370" y="413" type="line"/>
+      <point x="403" y="547" type="line"/>
+      <point x="428" y="701" type="line"/>
+      <point x="286" y="701" type="line"/>
+      <point x="261" y="547" type="line"/>
+    </contour>
+  </outline>
+</glyph>

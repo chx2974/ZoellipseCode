@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar.cv02" format="2">
+  <advance width="576"/>
+  <anchor x="346" y="0" name="bottom"/>
+  <anchor x="264" y="264" name="center"/>
+  <anchor x="360" y="596" name="topright"/>
+  <outline>
+    <contour>
+      <point x="90" y="251" type="line"/>
+      <point x="446" y="251" type="line"/>
+      <point x="446" y="292" type="line"/>
+      <point x="90" y="292" type="line"/>
+    </contour>
+    <component base="t.cv02"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>t.cv02</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

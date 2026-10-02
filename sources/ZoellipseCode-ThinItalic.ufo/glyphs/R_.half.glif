@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R.half" format="2">
+  <advance width="384"/>
+  <outline>
+    <contour>
+      <point x="11" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="74" y="122" type="line"/>
+      <point x="204" y="122" type="line" smooth="yes"/>
+      <point x="277" y="122"/>
+      <point x="329" y="171"/>
+      <point x="329" y="236" type="curve" smooth="yes"/>
+      <point x="329" y="287"/>
+      <point x="293" y="322"/>
+      <point x="235" y="322" type="curve" smooth="yes"/>
+      <point x="61" y="322" type="line"/>
+    </contour>
+    <contour>
+      <point x="253" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="217" y="135" type="line"/>
+      <point x="166" y="135" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="158" type="line"/>
+      <point x="100" y="285" type="line"/>
+      <point x="231" y="285" type="line" smooth="yes"/>
+      <point x="264" y="285"/>
+      <point x="284" y="265"/>
+      <point x="284" y="234" type="curve" smooth="yes"/>
+      <point x="284" y="189"/>
+      <point x="252" y="158"/>
+      <point x="210" y="158" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

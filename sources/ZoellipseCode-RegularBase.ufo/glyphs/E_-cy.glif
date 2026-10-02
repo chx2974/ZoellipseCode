@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E-cy" format="2">
+  <advance width="576"/>
+  <unicode hex="0404"/>
+  <anchor x="293" y="0" name="bottom"/>
+  <anchor x="293" y="701" name="top"/>
+  <outline>
+    <contour>
+      <point x="173" y="402" type="line"/>
+      <point x="173" y="324" type="line"/>
+      <point x="389" y="324" type="line"/>
+      <point x="389" y="402" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

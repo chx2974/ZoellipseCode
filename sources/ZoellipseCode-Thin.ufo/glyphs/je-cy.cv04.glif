@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="je-cy.cv04" format="2">
+  <advance width="576"/>
+  <anchor x="283" y="-259" name="bottom"/>
+  <anchor x="408" y="734" name="top"/>
+  <outline>
+    <component base="jdotless.cv04"/>
+    <component base="dotaccentcomb" xOffset="696"/>
+  </outline>
+</glyph>

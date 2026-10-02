@@ -1,0 +1,36 @@
+/*
+  Zoellipse Code v1.000, SIL Open Font License 1.1
+  Copyright 2026 The Zoellipse Code Project Authors (https://github.com/chx2974/ZoellipseCode)
+  Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)
+
+  Usage (paths are relative to this file; adjust to where you put the fonts):
+
+    <link rel="stylesheet" href="css/zoellipse-code.css">
+
+    code   { font-family: "Zoellipse Code", ui-monospace, monospace; font-weight: 400; }
+    b      { font-weight: 800; }        -- any value from 100 to 800
+    em     { font-style: italic; }      -- uses ZoellipseCode-Italic[wght]
+
+  Ligatures are on by default (calt). To turn them off:
+    code { font-variant-ligatures: none; }
+  Slashed / dotted zero alternates:
+    code { font-feature-settings: "zero"; }
+*/
+
+@font-face {
+  font-family: "Zoellipse Code";
+  src: url("../fonts/variable/ZoellipseCode%5Bwght%5D.woff2") format("woff2"),
+       url("../fonts/variable/ZoellipseCode%5Bwght%5D.ttf") format("truetype");
+  font-weight: 100 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Zoellipse Code";
+  src: url("../fonts/variable/ZoellipseCode-Italic%5Bwght%5D.woff2") format("woff2"),
+       url("../fonts/variable/ZoellipseCode-Italic%5Bwght%5D.ttf") format("truetype");
+  font-weight: 100 800;
+  font-style: italic;
+  font-display: swap;
+}

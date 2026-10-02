@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_slash_greater.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-506" y="-106" type="line"/>
+      <point x="-410" y="-106" type="line"/>
+      <point x="-157" y="564" type="line"/>
+      <point x="298" y="338" type="line" smooth="yes"/>
+      <point x="320" y="326"/>
+      <point x="345" y="318"/>
+      <point x="357" y="315" type="curve"/>
+      <point x="346" y="312"/>
+      <point x="322" y="303"/>
+      <point x="298" y="292" type="curve" smooth="yes"/>
+      <point x="4" y="149" type="line"/>
+      <point x="4" y="61" type="line"/>
+      <point x="419" y="267" type="line"/>
+      <point x="419" y="367" type="line"/>
+      <point x="-129" y="639" type="line"/>
+      <point x="-70" y="797" type="line"/>
+      <point x="-166" y="797" type="line"/>
+      <point x="-437" y="79" type="line"/>
+      <point x="-874" y="296" type="line" smooth="yes"/>
+      <point x="-896" y="307"/>
+      <point x="-917" y="315"/>
+      <point x="-926" y="318" type="curve"/>
+      <point x="-917" y="321"/>
+      <point x="-896" y="328"/>
+      <point x="-874" y="340" type="curve" smooth="yes"/>
+      <point x="-580" y="482" type="line"/>
+      <point x="-580" y="572" type="line"/>
+      <point x="-995" y="367" type="line"/>
+      <point x="-995" y="267" type="line"/>
+      <point x="-465" y="4" type="line"/>
+    </contour>
+  </outline>
+</glyph>

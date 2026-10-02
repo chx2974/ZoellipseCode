@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.numr.cv19" format="2">
+  <advance width="576"/>
+  <outline>
+    <component base="eightsuperior.cv19" xOffset="-15" yOffset="-96"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotereversed" format="2">
+  <advance width="576"/>
+  <unicode hex="201B"/>
+  <outline>
+    <component base="quotesinglbase" xScale="-1" xOffset="576" yOffset="562"/>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notcontains" format="2">
+  <advance width="576"/>
+  <unicode hex="220C"/>
+  <outline>
+    <contour>
+      <point x="125" y="-58" type="line"/>
+      <point x="169" y="-58" type="line"/>
+      <point x="451" y="749" type="line"/>
+      <point x="407" y="749" type="line"/>
+    </contour>
+    <component base="suchthat"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>suchthat</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

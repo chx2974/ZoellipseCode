@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="800" default="400">
+      <map input="100" output="100"/>
+      <map input="200" output="211.3"/>
+      <map input="300" output="338.2"/>
+      <map input="400" output="442.7"/>
+      <map input="500" output="545.6"/>
+      <map input="600" output="641.7"/>
+      <map input="700" output="726.8"/>
+      <map input="800" output="800"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="ZoellipseCode-ThinItalic.ufo" name="JetBrains Mono Thin Italic" familyname="Zoellipse Code" stylename="Thin Italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="ZoellipseCode-ItalicBase.ufo" name="JetBrains Mono Italic" familyname="Zoellipse Code" stylename="Italic Base">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="ZoellipseCode-Italic.ufo" familyname="Zoellipse Code" stylename="Italic">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="442.7"/>
+      </location>
+    </source>
+    <source filename="ZoellipseCode-ExtraBoldItalic.ufo" name="JetBrains Mono ExtraBold Italic" familyname="Zoellipse Code" stylename="ExtraBold Italic">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="JetBrains Mono Thin Italic" familyname="Zoellipse Code" stylename="Thin Italic" filename="instance_ufos/JetBrainsMono-ThinItalic.ufo" postscriptfontname="ZoellipseCode-ThinItalic" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+      </location>
+    </instance>
+    <instance name="JetBrains Mono ExtraLight Italic" familyname="Zoellipse Code" stylename="ExtraLight Italic" filename="instance_ufos/JetBrainsMono-ExtraLightItalic.ufo" postscriptfontname="ZoellipseCode-ExtraLightItalic" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="211.3"/>
+      </location>
+    </instance>
+    <instance name="JetBrains Mono Light Italic" familyname="Zoellipse Code" stylename="Light Italic" filename="instance_ufos/JetBrainsMono-LightItalic.ufo" postscriptfontname="ZoellipseCode-LightItalic" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="338.2"/>
+      </location>
+    </instance>
+    <instance name="JetBrains Mono Italic" familyname="Zoellipse Code" stylename="Italic" filename="instance_ufos/JetBrainsMono-Italic.ufo" postscriptfontname="ZoellipseCode-Italic" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="442.7"/>
+      </location>
+    </instance>
+    <instance name="JetBrains Mono Medium Italic" familyname="Zoellipse Code" stylename="Medium Italic" filename="instance_ufos/JetBrainsMono-MediumItalic.ufo" postscriptfontname="ZoellipseCode-MediumItalic" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="545.6"/>
+      </location>
+    </instance>
+    <instance name="JetBrains Mono SemiBold Italic" familyname="Zoellipse Code" stylename="SemiBold Italic" filename="instance_ufos/JetBrainsMono-SemiBoldItalic.ufo" postscriptfontname="ZoellipseCode-SemiBoldItalic" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="641.7"/>
+      </location>
+    </instance>
+    <instance name="JetBrains Mono Bold Italic" familyname="Zoellipse Code" stylename="Bold Italic" filename="instance_ufos/JetBrainsMono-BoldItalic.ufo" postscriptfontname="ZoellipseCode-BoldItalic" stylemapstylename="bold italic">
+      <location>
+        <dimension name="Weight" xvalue="726.8"/>
+      </location>
+    </instance>
+    <instance name="JetBrains Mono ExtraBold Italic" familyname="Zoellipse Code" stylename="ExtraBold Italic" filename="instance_ufos/JetBrainsMono-ExtraBoldItalic.ufo" postscriptfontname="ZoellipseCode-ExtraBoldItalic" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+      </location>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>9ADF6715-3D0F-493D-8567-18A6FBCFC567</key>
+        <dict>
+          <key>HH</key>
+          <integer>140</integer>
+          <key>HV</key>
+          <integer>150</integer>
+          <key>OH</key>
+          <integer>130</integer>
+          <key>OV</key>
+          <integer>150</integer>
+          <key>nV</key>
+          <integer>150</integer>
+          <key>oH</key>
+          <integer>130</integer>
+          <key>oV</key>
+          <integer>150</integer>
+          <key>tH</key>
+          <integer>135</integer>
+        </dict>
+        <key>CCC0BD40-BA8C-414E-B576-CF0B94E6C996</key>
+        <dict>
+          <key>HH</key>
+          <integer>82</integer>
+          <key>HV</key>
+          <integer>92</integer>
+          <key>OH</key>
+          <integer>80</integer>
+          <key>OV</key>
+          <integer>90</integer>
+          <key>nV</key>
+          <integer>90</integer>
+          <key>oH</key>
+          <integer>80</integer>
+          <key>oV</key>
+          <integer>90</integer>
+          <key>tH</key>
+          <integer>82</integer>
+        </dict>
+        <key>EDF5EB54-295C-4C90-9A2F-67CD82979CFF</key>
+        <dict>
+          <key>HH</key>
+          <integer>45</integer>
+          <key>HV</key>
+          <integer>50</integer>
+          <key>OH</key>
+          <integer>44</integer>
+          <key>OV</key>
+          <integer>50</integer>
+          <key>nV</key>
+          <integer>50</integer>
+          <key>oH</key>
+          <integer>44</integer>
+          <key>oV</key>
+          <integer>50</integer>
+          <key>tH</key>
+          <integer>45</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>701</integer>
+    <key>capHeight</key>
+    <integer>701</integer>
+    <key>copyright</key>
+    <string>Copyright 2026 The Zoellipse Code Project Authors (https://github.com/chx2974/ZoellipseCode); Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)</string>
+    <key>descender</key>
+    <integer>-259</integer>
+    <key>familyName</key>
+    <string>Zoellipse Code</string>
+    <key>italicAngle</key>
+    <integer>-9</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2023/02/09 14:46:58</string>
+    <key>openTypeHheaAscender</key>
+    <integer>979</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-288</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>Zoellipse Code is a Modified Version of JetBrains Mono with subtly superelliptic curves, a companion to Zoellipse.</string>
+    <key>openTypeNameDesigner</key>
+    <string>Charlie Champanhet; JetBrains Mono: Philipp Nurullin, Konstantin Bulenkov</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://openfontlicense.org</string>
+    <key>openTypeOS2Panose</key>
+    <array>
+      <integer>2</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>9</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+    </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>307</integer>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>979</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-288</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>NONE</string>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1132</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>385</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-10</integer>
+      <integer>0</integer>
+      <integer>528</integer>
+      <integer>538</integer>
+      <integer>701</integer>
+      <integer>710</integer>
+      <integer>701</integer>
+      <integer>710</integer>
+    </array>
+    <key>postscriptFontName</key>
+    <string>ZoellipseCode-ItalicBase</string>
+    <key>postscriptFullName</key>
+    <string>Zoellipse Code Italic Base</string>
+    <key>postscriptIsFixedPitch</key>
+    <true/>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <integer>79</integer>
+      <integer>58</integer>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>86</integer>
+      <integer>58</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-149</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>48</integer>
+    <key>styleMapStyleName</key>
+    <string>italic</string>
+    <key>styleName</key>
+    <string>Italic Base</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>528</integer>
+  </dict>
+</plist>

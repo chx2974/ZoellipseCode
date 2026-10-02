@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash_backslash.liga" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="-470" y="-106" type="line"/>
+      <point x="-316" y="-106" type="line"/>
+      <point x="17" y="541" type="line"/>
+      <point x="61" y="639" type="line"/>
+      <point x="75" y="541" type="line"/>
+      <point x="207" y="-106" type="line"/>
+      <point x="353" y="-106" type="line"/>
+      <point x="165" y="797" type="line"/>
+      <point x="2" y="797" type="line"/>
+    </contour>
+  </outline>
+</glyph>

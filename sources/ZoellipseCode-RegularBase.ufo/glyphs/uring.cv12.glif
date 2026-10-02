@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uring.cv12" format="2">
+  <advance width="576"/>
+  <anchor x="288" y="528" name="_top"/>
+  <anchor x="288" y="528" name="top"/>
+  <anchor x="288" y="0" name="bottom"/>
+  <anchor x="403" y="528" name="horn"/>
+  <anchor x="443" y="0" name="ogonek"/>
+  <anchor x="557" y="528" name="topright"/>
+  <outline>
+    <component base="ringcomb" xOffset="576"/>
+    <component base="u.cv12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>u.cv12</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

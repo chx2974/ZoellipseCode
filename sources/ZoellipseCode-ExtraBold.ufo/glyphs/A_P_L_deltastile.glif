@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="APLdeltastile" format="2">
+  <advance width="576"/>
+  <unicode hex="234B"/>
+  <outline>
+    <contour>
+      <point x="264" y="-106" type="line"/>
+      <point x="312" y="-106" type="line"/>
+      <point x="312" y="0" type="line"/>
+      <point x="552" y="0" type="line"/>
+      <point x="378" y="701" type="line"/>
+      <point x="312" y="701" type="line"/>
+      <point x="312" y="797" type="line"/>
+      <point x="264" y="797" type="line"/>
+      <point x="264" y="701" type="line"/>
+      <point x="196" y="701" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="264" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="196" y="125" type="line"/>
+      <point x="266" y="456" type="line"/>
+      <point x="266" y="125" type="line"/>
+    </contour>
+    <contour>
+      <point x="307" y="125" type="line"/>
+      <point x="307" y="456" type="line"/>
+      <point x="377" y="125" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro" format="2">
+  <advance width="576"/>
+  <unicode hex="20AC"/>
+  <anchor x="293" y="0" name="bottom"/>
+  <anchor x="293" y="701" name="top"/>
+  <outline>
+    <contour>
+      <point x="18" y="394" type="line"/>
+      <point x="341" y="394" type="line"/>
+      <point x="341" y="456" type="line"/>
+      <point x="18" y="456" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="298" type="line"/>
+      <point x="18" y="298" type="line"/>
+      <point x="18" y="235" type="line"/>
+      <point x="341" y="235" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PPC</string>
+    </dict>
+  </lib>
+</glyph>

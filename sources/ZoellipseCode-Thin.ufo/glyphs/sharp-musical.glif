@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sharp-musical" format="2">
+  <advance width="576"/>
+  <unicode hex="266F"/>
+  <outline>
+    <contour>
+      <point x="62" y="333" type="line"/>
+      <point x="514" y="570" type="line"/>
+      <point x="514" y="615" type="line"/>
+      <point x="62" y="378" type="line"/>
+    </contour>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="209" y="614" type="line"/>
+      <point x="169" y="614" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="85" type="line"/>
+      <point x="514" y="323" type="line"/>
+      <point x="514" y="368" type="line"/>
+      <point x="62" y="131" type="line"/>
+    </contour>
+    <contour>
+      <point x="367" y="86" type="line"/>
+      <point x="407" y="86" type="line"/>
+      <point x="407" y="701" type="line"/>
+      <point x="367" y="701" type="line"/>
+    </contour>
+  </outline>
+</glyph>

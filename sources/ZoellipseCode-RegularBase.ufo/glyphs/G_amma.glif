@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gamma" format="2">
+  <advance width="576"/>
+  <unicode hex="0393"/>
+  <anchor x="557" y="0" name="bottomright"/>
+  <anchor x="307" y="701" name="top"/>
+  <outline>
+    <component base="Ge-cy"/>
+  </outline>
+</glyph>

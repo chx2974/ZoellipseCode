@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chedescender-cy" format="2">
+  <advance width="576"/>
+  <unicode hex="04B6"/>
+  <anchor x="505" y="0" name="bottomright"/>
+  <anchor x="348" y="701" name="top"/>
+  <outline>
+    <contour>
+      <point x="395" y="-134" type="line"/>
+      <point x="443" y="-134" type="line"/>
+      <point x="470" y="43" type="line"/>
+      <point x="422" y="43" type="line"/>
+    </contour>
+    <component base="Che-cy" xOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>

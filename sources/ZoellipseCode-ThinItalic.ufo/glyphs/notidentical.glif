@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notidentical" format="2">
+  <advance width="576"/>
+  <unicode hex="2262"/>
+  <outline>
+    <contour>
+      <point x="94" y="-48" type="line"/>
+      <point x="140" y="-48" type="line"/>
+      <point x="499" y="691" type="line"/>
+      <point x="453" y="691" type="line"/>
+    </contour>
+    <component base="equivalence"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>PC</string>
+    </dict>
+  </lib>
+</glyph>
